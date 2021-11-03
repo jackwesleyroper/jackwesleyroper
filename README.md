@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jack Roper</h1>
-<h3 align="center">An Azure Tech Lead from Sheffield, UK currently working at Avanade.</h3>
+<h3 align="center">Azure Tech Lead...</h3>
+
+I am an experienced technician specialising in Cloud native and DevOps technologies, and focus on Azure, Azure DevOps, AWS, Terraform & Kubernetes. I currently work for Avanade in the UK as an Azure Tech Lead. I regularly write articles on [https://jackwesleyroper.medium.com](https://jackwesleyroper.medium.com)📝.
 
 <p align="left"> <a href="https://twitter.com/jackwesleyroper" target="blank"><img src="https://img.shields.io/twitter/follow/jackwesleyroper?logo=twitter&style=for-the-badge" alt="jackwesleyroper" /></a> </p>
-
-- 📝 I regularly write articles on [https://jackwesleyroper.medium.com](https://jackwesleyroper.medium.com)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
