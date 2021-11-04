@@ -7,6 +7,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Handling failures in Azure Kubernetes Service (AKS)](https://faun.pub/handling-failures-in-azure-kubernetes-service-aks-46cae8d2cc?source=rss-f8c0d8b1b817------2)
 - [Upgrading your application in Azure Kubernetes Service (AKS)](https://faun.pub/upgrading-your-application-in-azure-kubernetes-service-aks-c67d8fc5c482?source=rss-f8c0d8b1b817------2)
 - [Scaling your application in Azure Kubernetes Service (AKS)](https://faun.pub/scaling-your-application-in-azure-kubernetes-service-aks-3c33278bf7ae?source=rss-f8c0d8b1b817------2)
 - [Installing WordPress on Azure Kubernetes Service (AKS) using Helm](https://faun.pub/installing-wordpress-on-azure-kubernetes-service-aks-using-helm-5dfea5ef8d76?source=rss-f8c0d8b1b817------2)
@@ -16,7 +17,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Getting started with Azure Kubernetes Service (AKS)](https://faun.pub/getting-started-with-azure-kubernetes-service-aks-1b2a58fc4096?source=rss-f8c0d8b1b817------2)
 - [Introduction to Containers & Azure Kubernetes Service (AKS)](https://faun.pub/introduction-to-containers-azure-kubernetes-service-aks-eca5ae121390?source=rss-f8c0d8b1b817------2)
 - [Run an Azure DevOps pipeline on a schedule](https://faun.pub/run-an-azure-devops-pipeline-on-a-schedule-dd72b1c2b294?source=rss-f8c0d8b1b817------2)
-- [Terraform ‘for_each’ meta-argument](https://faun.pub/terraform-for-each-meta-argument-5d69a122510b?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
