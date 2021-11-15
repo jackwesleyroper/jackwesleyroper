@@ -4,9 +4,12 @@
 I am an experienced technician specialising in Cloud native and DevOps technologies, and focus on Azure, Azure DevOps, AWS, Terraform & Kubernetes. I currently work for Avanade in the UK as an Azure Tech Lead. I regularly write articles on [https://jackwesleyroper.medium.com](https://jackwesleyroper.medium.com)📝.
 
 <p align="left"> <a href="https://twitter.com/jackwesleyroper" target="blank"><img src="https://img.shields.io/twitter/follow/jackwesleyroper?logo=twitter&style=for-the-badge" alt="jackwesleyroper" /></a> </p>
-![GitHub followers](https://img.shields.io/github/followers/jackwesleyroper?style=social)
-[![Linkedin: Jack Roper](https://img.shields.io/badge/-Jack%20Roper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackwesleyroper/)](https://www.linkedin.com/in/jackwesleyroper/)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=jackwesleyroper&left_color=gray&right_color=blue)
+
+[GitHub followers](https://img.shields.io/github/followers/jackwesleyroper?style=social)
+
+[Linkedin: Jack Roper](https://img.shields.io/badge/-Jack%20Roper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackwesleyroper/)](https://www.linkedin.com/in/jackwesleyroper/)
+
+[Visitors](https://visitor-badge.glitch.me/badge?page_id=jackwesleyroper&left_color=gray&right_color=blue)
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
@@ -27,7 +30,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 ## 🐦 Latest Tweets:
 
 
-[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/jackwesleyroper")
+[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/jackwesleyroper)
 
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=jackwesleyroper&layout=wide)](https://github.com/gazf/github-readme-twitter)
