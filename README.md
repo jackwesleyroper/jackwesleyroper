@@ -4,8 +4,11 @@
 I am an experienced technician specialising in Cloud native and DevOps technologies, and focus on Azure, Azure DevOps, AWS, Terraform & Kubernetes. I currently work for Avanade in the UK as an Azure Tech Lead. I regularly write articles on [https://jackwesleyroper.medium.com](https://jackwesleyroper.medium.com)📝.
 
 <p align="left"> <a href="https://twitter.com/jackwesleyroper" target="blank"><img src="https://img.shields.io/twitter/follow/jackwesleyroper?logo=twitter&style=for-the-badge" alt="jackwesleyroper" /></a> </p>
+![GitHub followers](https://img.shields.io/github/followers/jackwesleyroper?style=social)
+[![Linkedin: Jack Roper](https://img.shields.io/badge/-Jack%20Roper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackwesleyroper/)](https://www.linkedin.com/in/jackwesleyroper/)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=jackwesleyroper&left_color=gray&right_color=blue)
 
-### Blog posts:
+### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Upgrading your application in Azure Kubernetes Service (AKS)](https://faun.pub/upgrading-your-application-in-azure-kubernetes-service-aks-c67d8fc5c482?source=rss-f8c0d8b1b817------2)
 - [Scaling your application in Azure Kubernetes Service (AKS)](https://faun.pub/scaling-your-application-in-azure-kubernetes-service-aks-3c33278bf7ae?source=rss-f8c0d8b1b817------2)
@@ -18,6 +21,16 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Run an Azure DevOps pipeline on a schedule](https://faun.pub/run-an-azure-devops-pipeline-on-a-schedule-dd72b1c2b294?source=rss-f8c0d8b1b817------2)
 - [Terraform ‘for_each’ meta-argument](https://faun.pub/terraform-for-each-meta-argument-5d69a122510b?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
+
+
+
+## 🐦 Latest Tweets:
+
+
+[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/jackwesleyroper")
+
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=jackwesleyroper&layout=wide)](https://github.com/gazf/github-readme-twitter)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +45,18 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 <h3 align="left">Like my work?</h3>
 <p><a href="https://www.buymeacoffee.com/jackwesleyroper"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jackwesleyroper" /></a></p><br><br>
+
+## 📊 Github stats
+<p >
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jackwesleyroper&show_icons=true&bg_color=ffea00&title_color=000000&text_color=000000&icon_color=ff0000&hide_border=true&count_private=true" />
+</p>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
