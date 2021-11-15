@@ -5,7 +5,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 <p align="left"> <a href="https://twitter.com/jackwesleyroper" target="blank"><img src="https://img.shields.io/twitter/follow/jackwesleyroper?logo=twitter&style=for-the-badge" alt="jackwesleyroper" /></a> </p>
 
-[![Linkedin: Jack Roper](https://img.shields.io/badge/-Jack%20Roper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackwesleyroper/)](https://www.linkedin.com/in/jackwesleyroper/)
+[![Linkedin: Jack Roper](https://img.shields.io/badge/-Jack%20Roper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jwroper/)](https://www.linkedin.com/in/jwroper/)
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
