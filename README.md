@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Terraform null provider and null_resource explained](https://faun.pub/terraform-null-provider-and-null-resource-explained-6a8d674cad63?source=rss-f8c0d8b1b817------2)
 - [Trends in Cloud Infrastructure Automation in 2021](https://faun.pub/trends-in-cloud-infrastructure-automation-in-2021-4a47cfd6cbb8?source=rss-f8c0d8b1b817------2)
 - [Handling failures in Azure Kubernetes Service &lpar;AKS&rpar;](https://faun.pub/handling-failures-in-azure-kubernetes-service-aks-46cae8d2cc?source=rss-f8c0d8b1b817------2)
 - [Upgrading your application in Azure Kubernetes Service &lpar;AKS&rpar;](https://faun.pub/upgrading-your-application-in-azure-kubernetes-service-aks-c67d8fc5c482?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Application deployment on Azure Kubernetes Service &lpar;AKS&rpar; using a ConfigMap](https://faun.pub/application-deployment-on-azure-kubernetes-service-aks-using-a-configmap-51284d1d5785?source=rss-f8c0d8b1b817------2)
 - [Application deployment on Azure Kubernetes Service &lpar;AKS&rpar;](https://faun.pub/application-deployment-on-azure-kubernetes-service-aks-12c5920d4544?source=rss-f8c0d8b1b817------2)
 - [Getting started with Azure Kubernetes Service &lpar;AKS&rpar;](https://faun.pub/getting-started-with-azure-kubernetes-service-aks-1b2a58fc4096?source=rss-f8c0d8b1b817------2)
-- [Introduction to Containers &amp; Azure Kubernetes Service &lpar;AKS&rpar;](https://faun.pub/introduction-to-containers-azure-kubernetes-service-aks-eca5ae121390?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
