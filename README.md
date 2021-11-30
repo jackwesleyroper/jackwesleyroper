@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Azure DevOps build agent warning — migration from Node6 execution handler to Node 10](https://medium.com/nerd-for-tech/azure-devops-build-agent-warning-migration-from-node6-execution-handler-to-node-10-f9f79208ec39?source=rss-f8c0d8b1b817------2)
 - [Azure Update Management troubleshooting for Linux VMs](https://faun.pub/azure-update-management-troubleshooting-for-linux-vms-9e2cc1d29d5b?source=rss-f8c0d8b1b817------2)
 - [HBO’s Silicon Valley Tech Reference Guide!](https://faun.pub/hbo-silicon-valley-tech-reference-guide-63134465e5?source=rss-f8c0d8b1b817------2)
 - [Terraform null provider and null_resource explained](https://faun.pub/terraform-null-provider-and-null-resource-explained-6a8d674cad63?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Scaling your application in Azure Kubernetes Service &lpar;AKS&rpar;](https://faun.pub/scaling-your-application-in-azure-kubernetes-service-aks-3c33278bf7ae?source=rss-f8c0d8b1b817------2)
 - [Installing WordPress on Azure Kubernetes Service &lpar;AKS&rpar; using Helm](https://faun.pub/installing-wordpress-on-azure-kubernetes-service-aks-using-helm-5dfea5ef8d76?source=rss-f8c0d8b1b817------2)
 - [Application deployment on Azure Kubernetes Service &lpar;AKS&rpar; — Exposing a service and deploying…](https://faun.pub/application-deployment-on-azure-kubernetes-service-aks-exposing-a-service-and-deploying-523ebae407bc?source=rss-f8c0d8b1b817------2)
-- [Application deployment on Azure Kubernetes Service &lpar;AKS&rpar; using a ConfigMap](https://faun.pub/application-deployment-on-azure-kubernetes-service-aks-using-a-configmap-51284d1d5785?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
