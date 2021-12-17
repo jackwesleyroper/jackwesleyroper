@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Azure Networking AZ-700 Exam Tips](https://faun.pub/azure-networking-az-700-exam-tips-387c46a5e7bc?source=rss-f8c0d8b1b817------2)
 - [Deploy an Azure Web App using Octopus Deploy](https://faun.pub/deploy-an-azure-web-app-using-octopus-deploy-33780b9fe345?source=rss-f8c0d8b1b817------2)
 - [Azure DevOps build agent warning — migration from Node6 execution handler to Node 10](https://medium.com/nerd-for-tech/azure-devops-build-agent-warning-migration-from-node6-execution-handler-to-node-10-f9f79208ec39?source=rss-f8c0d8b1b817------2)
 - [Azure Update Management troubleshooting for Linux VMs](https://faun.pub/azure-update-management-troubleshooting-for-linux-vms-9e2cc1d29d5b?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Handling failures in Azure Kubernetes Service &lpar;AKS&rpar;](https://faun.pub/handling-failures-in-azure-kubernetes-service-aks-46cae8d2cc?source=rss-f8c0d8b1b817------2)
 - [Upgrading your application in Azure Kubernetes Service &lpar;AKS&rpar;](https://faun.pub/upgrading-your-application-in-azure-kubernetes-service-aks-c67d8fc5c482?source=rss-f8c0d8b1b817------2)
 - [Scaling your application in Azure Kubernetes Service &lpar;AKS&rpar;](https://faun.pub/scaling-your-application-in-azure-kubernetes-service-aks-3c33278bf7ae?source=rss-f8c0d8b1b817------2)
-- [Installing WordPress on Azure Kubernetes Service &lpar;AKS&rpar; using Helm](https://faun.pub/installing-wordpress-on-azure-kubernetes-service-aks-using-helm-5dfea5ef8d76?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
