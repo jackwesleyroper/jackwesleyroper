@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Run WordPress on Azure Kubernetes Service &lpar;AKS&rpar; in just 8 commands](https://medium.com/codex/run-wordpress-on-azure-kubernetes-service-aks-in-just-8-commands-427a4129311b?source=rss-f8c0d8b1b817------2)
 - [Error: building client: unable to obtain access token: running Azure CLI: exit status 1: ERROR…](https://jackwesleyroper.medium.com/error-building-client-unable-to-obtain-access-token-running-azure-cli-exit-status-1-error-b33b8ca8a4ef?source=rss-f8c0d8b1b817------2)
 - [The BEST way to structure your Terraform projects!](https://faun.pub/the-best-way-to-structure-your-terraform-projects-3f56b6440dcb?source=rss-f8c0d8b1b817------2)
 - [Azure Networking AZ-700 Exam Tips](https://faun.pub/azure-networking-az-700-exam-tips-387c46a5e7bc?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [HBO’s Silicon Valley Tech Reference Guide!](https://faun.pub/hbo-silicon-valley-tech-reference-guide-63134465e5?source=rss-f8c0d8b1b817------2)
 - [Terraform null provider and null_resource explained](https://faun.pub/terraform-null-provider-and-null-resource-explained-6a8d674cad63?source=rss-f8c0d8b1b817------2)
 - [Trends in Cloud Infrastructure Automation in 2021](https://faun.pub/trends-in-cloud-infrastructure-automation-in-2021-4a47cfd6cbb8?source=rss-f8c0d8b1b817------2)
-- [Handling failures in Azure Kubernetes Service &lpar;AKS&rpar;](https://faun.pub/handling-failures-in-azure-kubernetes-service-aks-46cae8d2cc?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
