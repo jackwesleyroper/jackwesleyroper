@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Helm Error: UPGRADE FAILED: another operation &lpar;install/upgrade/rollback&rpar; is in progress.](https://medium.com/nerd-for-tech/kubernetes-helm-error-upgrade-failed-another-operation-install-upgrade-rollback-is-in-progress-52ea2c6fcda9?source=rss-f8c0d8b1b817------2)
 - [Enable Azure SQL Server vulnerability assessment using Terraform](https://faun.pub/enable-azure-sql-server-vulnerability-assessment-using-terraform-abdffc6307a6?source=rss-f8c0d8b1b817------2)
 - [Run WordPress on Azure Kubernetes Service &lpar;AKS&rpar; in just 8 commands](https://faun.pub/run-wordpress-on-azure-kubernetes-service-aks-in-just-8-commands-427a4129311b?source=rss-f8c0d8b1b817------2)
 - [Error: building client: unable to obtain access token: running Azure CLI: exit status 1: ERROR…](https://jackwesleyroper.medium.com/error-building-client-unable-to-obtain-access-token-running-azure-cli-exit-status-1-error-b33b8ca8a4ef?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Azure DevOps build agent warning — migration from Node6 execution handler to Node 10](https://medium.com/nerd-for-tech/azure-devops-build-agent-warning-migration-from-node6-execution-handler-to-node-10-f9f79208ec39?source=rss-f8c0d8b1b817------2)
 - [Azure Update Management troubleshooting for Linux VMs](https://faun.pub/azure-update-management-troubleshooting-for-linux-vms-9e2cc1d29d5b?source=rss-f8c0d8b1b817------2)
 - [HBO’s Silicon Valley Tech Reference Guide!](https://faun.pub/hbo-silicon-valley-tech-reference-guide-63134465e5?source=rss-f8c0d8b1b817------2)
-- [Terraform null provider and null_resource explained](https://faun.pub/terraform-null-provider-and-null-resource-explained-6a8d674cad63?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
