@@ -12,7 +12,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Kubernetes Helm Error: UPGRADE FAILED: another operation &lpar;install/upgrade/rollback&rpar; is in progress.](https://medium.com/nerd-for-tech/kubernetes-helm-error-upgrade-failed-another-operation-install-upgrade-rollback-is-in-progress-52ea2c6fcda9?source=rss-f8c0d8b1b817------2)
 - [Enable Azure SQL Server vulnerability assessment using Terraform](https://faun.pub/enable-azure-sql-server-vulnerability-assessment-using-terraform-abdffc6307a6?source=rss-f8c0d8b1b817------2)
 - [Run WordPress on Azure Kubernetes Service &lpar;AKS&rpar; in just 8 commands](https://faun.pub/run-wordpress-on-azure-kubernetes-service-aks-in-just-8-commands-427a4129311b?source=rss-f8c0d8b1b817------2)
-- [Error: building client: unable to obtain access token: running Azure CLI: exit status 1: ERROR…](https://jackwesleyroper.medium.com/error-building-client-unable-to-obtain-access-token-running-azure-cli-exit-status-1-error-b33b8ca8a4ef?source=rss-f8c0d8b1b817------2)
+- [Error: building client: unable to obtain access token: running Azure CLI: exit status 1: ERROR…](https://systemweakness.com/error-building-client-unable-to-obtain-access-token-running-azure-cli-exit-status-1-error-b33b8ca8a4ef?source=rss-f8c0d8b1b817------2)
 - [The BEST way to structure your Terraform projects!](https://faun.pub/the-best-way-to-structure-your-terraform-projects-3f56b6440dcb?source=rss-f8c0d8b1b817------2)
 - [Azure Networking AZ-700 Exam Tips](https://faun.pub/azure-networking-az-700-exam-tips-387c46a5e7bc?source=rss-f8c0d8b1b817------2)
 - [Deploy an Azure Web App using Octopus Deploy](https://faun.pub/deploy-an-azure-web-app-using-octopus-deploy-33780b9fe345?source=rss-f8c0d8b1b817------2)
