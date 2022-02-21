@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring Azure Kubernetes Service &lpar;AKS&rpar;](https://faun.pub/monitoring-azure-kubernetes-service-aks-59c6596e05b1?source=rss-f8c0d8b1b817------2)
 - [Terraform Count and For_Each Meta-Argument Overview](https://medium.com/spacelift/terraform-count-and-for-each-meta-argument-overview-bac3b6f2fdaa?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Helm Error: UPGRADE FAILED: another operation &lpar;install/upgrade/rollback&rpar; is in progress.](https://medium.com/nerd-for-tech/kubernetes-helm-error-upgrade-failed-another-operation-install-upgrade-rollback-is-in-progress-52ea2c6fcda9?source=rss-f8c0d8b1b817------2)
 - [Enable Azure SQL Server vulnerability assessment using Terraform](https://faun.pub/enable-azure-sql-server-vulnerability-assessment-using-terraform-abdffc6307a6?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Azure Networking AZ-700 Exam Tips](https://faun.pub/azure-networking-az-700-exam-tips-387c46a5e7bc?source=rss-f8c0d8b1b817------2)
 - [Deploy an Azure Web App using Octopus Deploy](https://faun.pub/deploy-an-azure-web-app-using-octopus-deploy-33780b9fe345?source=rss-f8c0d8b1b817------2)
 - [Azure DevOps build agent warning — migration from Node6 execution handler to Node 10](https://medium.com/nerd-for-tech/azure-devops-build-agent-warning-migration-from-node6-execution-handler-to-node-10-f9f79208ec39?source=rss-f8c0d8b1b817------2)
-- [Azure Update Management troubleshooting for Linux VMs](https://faun.pub/azure-update-management-troubleshooting-for-linux-vms-9e2cc1d29d5b?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
