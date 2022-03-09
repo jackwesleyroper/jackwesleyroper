@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Format and Mount a VM disk using Terraform in Azure](https://jackwesleyroper.medium.com/format-and-mount-a-vm-disk-using-terraform-in-azure-a622313d43e5?source=rss-f8c0d8b1b817------2)
 - [Generate Terraform code automatically for your Azure project using Nubesgen!](https://faun.pub/generate-terraform-code-automatically-for-your-azure-project-using-nubesgen-8917e607b8b5?source=rss-f8c0d8b1b817------2)
 - [Monitoring Azure Kubernetes Service &lpar;AKS&rpar;](https://faun.pub/monitoring-azure-kubernetes-service-aks-59c6596e05b1?source=rss-f8c0d8b1b817------2)
 - [Terraform Count and For_Each Meta-Argument Overview](https://medium.com/spacelift/terraform-count-and-for-each-meta-argument-overview-bac3b6f2fdaa?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Error: building client: unable to obtain access token: running Azure CLI: exit status 1: ERROR…](https://systemweakness.com/error-building-client-unable-to-obtain-access-token-running-azure-cli-exit-status-1-error-b33b8ca8a4ef?source=rss-f8c0d8b1b817------2)
 - [The BEST way to structure your Terraform projects!](https://faun.pub/the-best-way-to-structure-your-terraform-projects-3f56b6440dcb?source=rss-f8c0d8b1b817------2)
 - [Azure Networking AZ-700 Exam Tips](https://faun.pub/azure-networking-az-700-exam-tips-387c46a5e7bc?source=rss-f8c0d8b1b817------2)
-- [Deploy an Azure Web App using Octopus Deploy](https://faun.pub/deploy-an-azure-web-app-using-octopus-deploy-33780b9fe345?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
