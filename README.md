@@ -9,7 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Format and Mount a VM disk using Terraform in Azure](https://jackwesleyroper.medium.com/format-and-mount-a-vm-disk-using-terraform-in-azure-a622313d43e5?source=rss-f8c0d8b1b817------2)
+- [Format and Mount a VM disk using Terraform in Azure](https://faun.pub/format-and-mount-a-vm-disk-using-terraform-in-azure-a622313d43e5?source=rss-f8c0d8b1b817------2)
 - [Generate Terraform code automatically for your Azure project using Nubesgen!](https://faun.pub/generate-terraform-code-automatically-for-your-azure-project-using-nubesgen-8917e607b8b5?source=rss-f8c0d8b1b817------2)
 - [Monitoring Azure Kubernetes Service &lpar;AKS&rpar;](https://faun.pub/monitoring-azure-kubernetes-service-aks-59c6596e05b1?source=rss-f8c0d8b1b817------2)
 - [Terraform Count and For_Each Meta-Argument Overview](https://medium.com/spacelift/terraform-count-and-for-each-meta-argument-overview-bac3b6f2fdaa?source=rss-f8c0d8b1b817------2)
