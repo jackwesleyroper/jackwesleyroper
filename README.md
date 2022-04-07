@@ -9,7 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Setting up Scalr with Azure DevOps — Picking a workflow](https://jackwesleyroper.medium.com/setting-up-scalr-with-azure-devops-picking-a-workflow-d91124a4748c?source=rss-f8c0d8b1b817------2)
+- [Setting up Scalr with Azure DevOps — Picking a workflow](https://itnext.io/setting-up-scalr-with-azure-devops-picking-a-workflow-d91124a4748c?source=rss-f8c0d8b1b817------2)
 - [Custom Logs in Azure Log Analytics](https://faun.pub/custom-logs-in-azure-log-analytics-2c03cd6f9095?source=rss-f8c0d8b1b817------2)
 - [Terraform Init — Command Overview with Quick Usage Examples](https://faun.pub/terraform-init-command-overview-with-quick-usage-examples-752a5719c317?source=rss-f8c0d8b1b817------2)
 - [Format and Mount a VM disk using Terraform in Azure](https://faun.pub/format-and-mount-a-vm-disk-using-terraform-in-azure-a622313d43e5?source=rss-f8c0d8b1b817------2)
