@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Setting up Scalr with Azure DevOps — Add Azure credentials](https://itnext.io/setting-up-scalr-with-azure-devops-add-azure-credentials-979ddc17d90d?source=rss-f8c0d8b1b817------2)
 - [Setting up Scalr with Azure DevOps — Picking a workflow](https://itnext.io/setting-up-scalr-with-azure-devops-picking-a-workflow-d91124a4748c?source=rss-f8c0d8b1b817------2)
 - [Custom Logs in Azure Log Analytics](https://faun.pub/custom-logs-in-azure-log-analytics-2c03cd6f9095?source=rss-f8c0d8b1b817------2)
 - [Terraform Init — Command Overview with Quick Usage Examples](https://faun.pub/terraform-init-command-overview-with-quick-usage-examples-752a5719c317?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Terraform Count and For_Each Meta-Argument Overview](https://medium.com/spacelift/terraform-count-and-for-each-meta-argument-overview-bac3b6f2fdaa?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Helm Error: UPGRADE FAILED: another operation &lpar;install/upgrade/rollback&rpar; is in progress.](https://medium.com/nerd-for-tech/kubernetes-helm-error-upgrade-failed-another-operation-install-upgrade-rollback-is-in-progress-52ea2c6fcda9?source=rss-f8c0d8b1b817------2)
 - [Enable Azure SQL Server vulnerability assessment using Terraform](https://faun.pub/enable-azure-sql-server-vulnerability-assessment-using-terraform-abdffc6307a6?source=rss-f8c0d8b1b817------2)
-- [Run WordPress on Azure Kubernetes Service &lpar;AKS&rpar; in just 8 commands](https://faun.pub/run-wordpress-on-azure-kubernetes-service-aks-in-just-8-commands-427a4129311b?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
