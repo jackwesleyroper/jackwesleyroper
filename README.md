@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Infrastructure as Code](https://faun.pub/infrastructure-as-code-37f1916f51fc?source=rss-f8c0d8b1b817------2)
 - [Setting up Scalr with Azure DevOps — how to execute your Terraform code and create a workspace](https://itnext.io/setting-up-scalr-with-azure-devops-how-to-execute-your-terraform-code-and-create-a-workspace-6b54fa686fd3?source=rss-f8c0d8b1b817------2)
 - [Setting up Scalr with Azure DevOps — Add Azure credentials](https://itnext.io/setting-up-scalr-with-azure-devops-add-azure-credentials-979ddc17d90d?source=rss-f8c0d8b1b817------2)
 - [Setting up Scalr with Azure DevOps — Picking a workflow](https://itnext.io/setting-up-scalr-with-azure-devops-picking-a-workflow-d91124a4748c?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Generate Terraform code automatically for your Azure project using Nubesgen!](https://faun.pub/generate-terraform-code-automatically-for-your-azure-project-using-nubesgen-8917e607b8b5?source=rss-f8c0d8b1b817------2)
 - [Monitoring Azure Kubernetes Service &lpar;AKS&rpar;](https://faun.pub/monitoring-azure-kubernetes-service-aks-59c6596e05b1?source=rss-f8c0d8b1b817------2)
 - [Terraform Count and For_Each Meta-Argument Overview](https://medium.com/spacelift/terraform-count-and-for-each-meta-argument-overview-bac3b6f2fdaa?source=rss-f8c0d8b1b817------2)
-- [Kubernetes Helm Error: UPGRADE FAILED: another operation &lpar;install/upgrade/rollback&rpar; is in progress.](https://medium.com/nerd-for-tech/kubernetes-helm-error-upgrade-failed-another-operation-install-upgrade-rollback-is-in-progress-52ea2c6fcda9?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
