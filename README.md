@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Terraform local values](https://jackwesleyroper.medium.com/terraform-local-values-d0b9de82ead7?source=rss-f8c0d8b1b817------2)
 - [Infrastructure as Code](https://faun.pub/infrastructure-as-code-37f1916f51fc?source=rss-f8c0d8b1b817------2)
 - [Setting up Scalr with Azure DevOps — how to execute your Terraform code and create a workspace](https://itnext.io/setting-up-scalr-with-azure-devops-how-to-execute-your-terraform-code-and-create-a-workspace-6b54fa686fd3?source=rss-f8c0d8b1b817------2)
 - [Setting up Scalr with Azure DevOps — Add Azure credentials](https://itnext.io/setting-up-scalr-with-azure-devops-add-azure-credentials-979ddc17d90d?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Format and Mount a VM disk using Terraform in Azure](https://faun.pub/format-and-mount-a-vm-disk-using-terraform-in-azure-a622313d43e5?source=rss-f8c0d8b1b817------2)
 - [Generate Terraform code automatically for your Azure project using Nubesgen!](https://faun.pub/generate-terraform-code-automatically-for-your-azure-project-using-nubesgen-8917e607b8b5?source=rss-f8c0d8b1b817------2)
 - [Monitoring Azure Kubernetes Service &lpar;AKS&rpar;](https://faun.pub/monitoring-azure-kubernetes-service-aks-59c6596e05b1?source=rss-f8c0d8b1b817------2)
-- [Terraform Count and For_Each Meta-Argument Overview](https://medium.com/spacelift/terraform-count-and-for-each-meta-argument-overview-bac3b6f2fdaa?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
