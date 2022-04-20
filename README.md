@@ -10,7 +10,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Creating Terraform for an AKS Cluster with Opta](https://blog.runx.dev/creating-terraform-for-an-aks-cluster-with-opta-a7c690066ebe?source=rss-f8c0d8b1b817------2)
-- [Terraform local values](https://jackwesleyroper.medium.com/terraform-local-values-d0b9de82ead7?source=rss-f8c0d8b1b817------2)
+- [Terraform local values](https://medium.com/codex/terraform-local-values-d0b9de82ead7?source=rss-f8c0d8b1b817------2)
 - [Infrastructure as Code](https://faun.pub/infrastructure-as-code-37f1916f51fc?source=rss-f8c0d8b1b817------2)
 - [Setting up Scalr with Azure DevOps — how to execute your Terraform code and create a workspace](https://itnext.io/setting-up-scalr-with-azure-devops-how-to-execute-your-terraform-code-and-create-a-workspace-6b54fa686fd3?source=rss-f8c0d8b1b817------2)
 - [Setting up Scalr with Azure DevOps — Add Azure credentials](https://itnext.io/setting-up-scalr-with-azure-devops-add-azure-credentials-979ddc17d90d?source=rss-f8c0d8b1b817------2)
