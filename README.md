@@ -9,7 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Access control in AKS &lpar;Role-based access control RBAC&rpar;](https://jackwesleyroper.medium.com/access-control-in-aks-role-based-access-control-rbac-f0985d53d59e?source=rss-f8c0d8b1b817------2)
+- [Access control in AKS &lpar;Role-based access control RBAC&rpar;](https://faun.pub/access-control-in-aks-role-based-access-control-rbac-f0985d53d59e?source=rss-f8c0d8b1b817------2)
 - [Securing your AKS application with HTTPS, using Azure Application Gateway &amp; Let’s Encrypt](https://faun.pub/securing-your-aks-application-with-https-using-azure-application-gateway-lets-encrypt-7d6589b6e22a?source=rss-f8c0d8b1b817------2)
 - [Creating Terraform for an AKS Cluster with Opta](https://blog.runx.dev/creating-terraform-for-an-aks-cluster-with-opta-a7c690066ebe?source=rss-f8c0d8b1b817------2)
 - [Terraform local values](https://medium.com/codex/terraform-local-values-d0b9de82ead7?source=rss-f8c0d8b1b817------2)
