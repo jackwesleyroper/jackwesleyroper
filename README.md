@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to use the Terraform join and split functions](https://itnext.io/how-to-use-the-terraform-join-and-split-functions-867999704d34?source=rss-f8c0d8b1b817------2)
 - [Using the Terraform Apply Command](https://itnext.io/using-the-terraform-apply-command-a2b8413f6e77?source=rss-f8c0d8b1b817------2)
 - [CI/CD Pipelines: Everything You Need To Know](https://itnext.io/ci-cd-pipelines-everything-you-need-to-know-e0ef2754d449?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Best Practices](https://itnext.io/kubernetes-best-practices-d2bfb6fe3c19?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Securing your AKS application with HTTPS, using Azure Application Gateway &amp; Let’s Encrypt](https://faun.pub/securing-your-aks-application-with-https-using-azure-application-gateway-lets-encrypt-7d6589b6e22a?source=rss-f8c0d8b1b817------2)
 - [Creating Terraform for an AKS Cluster with Opta](https://blog.runx.dev/creating-terraform-for-an-aks-cluster-with-opta-a7c690066ebe?source=rss-f8c0d8b1b817------2)
 - [Terraform local values](https://medium.com/codex/terraform-local-values-d0b9de82ead7?source=rss-f8c0d8b1b817------2)
-- [Infrastructure as Code](https://faun.pub/infrastructure-as-code-37f1916f51fc?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
