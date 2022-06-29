@@ -9,7 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [How to use the Terraform join and split functions](https://itnext.io/how-to-use-the-terraform-join-and-split-functions-867999704d34?source=rss-f8c0d8b1b817------2)
+- [How to use the Terraform join and split functions](https://medium.com/spacelift/how-to-use-the-terraform-join-and-split-functions-867999704d34?source=rss-f8c0d8b1b817------2)
 - [Using the Terraform Apply Command](https://itnext.io/using-the-terraform-apply-command-a2b8413f6e77?source=rss-f8c0d8b1b817------2)
 - [CI/CD Pipelines: Everything You Need To Know](https://itnext.io/ci-cd-pipelines-everything-you-need-to-know-e0ef2754d449?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Best Practices](https://itnext.io/kubernetes-best-practices-d2bfb6fe3c19?source=rss-f8c0d8b1b817------2)
