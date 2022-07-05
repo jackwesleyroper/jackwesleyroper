@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Which cloud deployment model is right for your business?](https://itnext.io/which-cloud-deployment-model-is-right-for-your-business-96e191684d9d?source=rss-f8c0d8b1b817------2)
 - [How to use the Terraform join and split functions](https://medium.com/spacelift/how-to-use-the-terraform-join-and-split-functions-867999704d34?source=rss-f8c0d8b1b817------2)
 - [Using the Terraform Apply Command](https://itnext.io/using-the-terraform-apply-command-a2b8413f6e77?source=rss-f8c0d8b1b817------2)
 - [CI/CD Pipelines: Everything You Need To Know](https://itnext.io/ci-cd-pipelines-everything-you-need-to-know-e0ef2754d449?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Access control in AKS &lpar;Role-based access control RBAC&rpar;](https://faun.pub/access-control-in-aks-role-based-access-control-rbac-f0985d53d59e?source=rss-f8c0d8b1b817------2)
 - [Securing your AKS application with HTTPS, using Azure Application Gateway &amp; Let’s Encrypt](https://faun.pub/securing-your-aks-application-with-https-using-azure-application-gateway-lets-encrypt-7d6589b6e22a?source=rss-f8c0d8b1b817------2)
 - [Creating Terraform for an AKS Cluster with Opta](https://blog.runx.dev/creating-terraform-for-an-aks-cluster-with-opta-a7c690066ebe?source=rss-f8c0d8b1b817------2)
-- [Terraform local values](https://medium.com/codex/terraform-local-values-d0b9de82ead7?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
