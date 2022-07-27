@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [What is a Kubernetes Cluster?](https://itnext.io/what-is-a-kubernetes-cluster-f558c3fd2a12?source=rss-f8c0d8b1b817------2)
 - [Terraform Providers](https://itnext.io/terraform-providers-cbb37e3974ea?source=rss-f8c0d8b1b817------2)
 - [Which cloud deployment model is right for your business?](https://itnext.io/which-cloud-deployment-model-is-right-for-your-business-96e191684d9d?source=rss-f8c0d8b1b817------2)
 - [How to use the Terraform join and split functions](https://medium.com/spacelift/how-to-use-the-terraform-join-and-split-functions-867999704d34?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [AZ-140 Azure Virtual Desktop Specialty Exam Tips](https://itnext.io/az-140-azure-virtual-desktop-specialty-exam-tips-3809faf6093?source=rss-f8c0d8b1b817------2)
 - [Terraform Cheat Sheet](https://itnext.io/terraform-cheat-sheet-3f7c5c55cfbc?source=rss-f8c0d8b1b817------2)
 - [Access control in AKS &lpar;Role-based access control RBAC&rpar;](https://faun.pub/access-control-in-aks-role-based-access-control-rbac-f0985d53d59e?source=rss-f8c0d8b1b817------2)
-- [Securing your AKS application with HTTPS, using Azure Application Gateway &amp; Let’s Encrypt](https://faun.pub/securing-your-aks-application-with-https-using-azure-application-gateway-lets-encrypt-7d6589b6e22a?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
