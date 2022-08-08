@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [The Lifecycle of a Terraform Resource — Lifecycle Meta-Argument](https://jackwesleyroper.medium.com/the-lifecycle-of-a-terraform-resource-lifecycle-meta-argument-3cc4555ec976?source=rss-f8c0d8b1b817------2)
 - [What is a Kubernetes Cluster?](https://faun.pub/what-is-a-kubernetes-cluster-f558c3fd2a12?source=rss-f8c0d8b1b817------2)
 - [Terraform Providers](https://itnext.io/terraform-providers-cbb37e3974ea?source=rss-f8c0d8b1b817------2)
 - [Which cloud deployment model is right for your business?](https://itnext.io/which-cloud-deployment-model-is-right-for-your-business-96e191684d9d?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Kubernetes Best Practices](https://itnext.io/kubernetes-best-practices-d2bfb6fe3c19?source=rss-f8c0d8b1b817------2)
 - [AZ-140 Azure Virtual Desktop Specialty Exam Tips](https://itnext.io/az-140-azure-virtual-desktop-specialty-exam-tips-3809faf6093?source=rss-f8c0d8b1b817------2)
 - [Terraform Cheat Sheet](https://itnext.io/terraform-cheat-sheet-3f7c5c55cfbc?source=rss-f8c0d8b1b817------2)
-- [Access control in AKS &lpar;Role-based access control RBAC&rpar;](https://faun.pub/access-control-in-aks-role-based-access-control-rbac-f0985d53d59e?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
