@@ -9,7 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [The Lifecycle of a Terraform Resource — Lifecycle Meta-Argument](https://jackwesleyroper.medium.com/the-lifecycle-of-a-terraform-resource-lifecycle-meta-argument-3cc4555ec976?source=rss-f8c0d8b1b817------2)
+- [The Lifecycle of a Terraform Resource — Lifecycle Meta-Argument](https://faun.pub/the-lifecycle-of-a-terraform-resource-lifecycle-meta-argument-3cc4555ec976?source=rss-f8c0d8b1b817------2)
 - [What is a Kubernetes Cluster?](https://faun.pub/what-is-a-kubernetes-cluster-f558c3fd2a12?source=rss-f8c0d8b1b817------2)
 - [Terraform Providers](https://itnext.io/terraform-providers-cbb37e3974ea?source=rss-f8c0d8b1b817------2)
 - [Which cloud deployment model is right for your business?](https://itnext.io/which-cloud-deployment-model-is-right-for-your-business-96e191684d9d?source=rss-f8c0d8b1b817------2)
