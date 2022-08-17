@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Deployment Strategies](https://faun.pub/kubernetes-deployment-strategies-f36e7e4d2be?source=rss-f8c0d8b1b817------2)
 - [Managing Terraform state](https://itnext.io/managing-terraform-state-27cf4fc135b?source=rss-f8c0d8b1b817------2)
 - [The Lifecycle of a Terraform Resource — Lifecycle Meta-Argument](https://faun.pub/the-lifecycle-of-a-terraform-resource-lifecycle-meta-argument-3cc4555ec976?source=rss-f8c0d8b1b817------2)
 - [What is a Kubernetes Cluster?](https://faun.pub/what-is-a-kubernetes-cluster-f558c3fd2a12?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Using the Terraform Apply Command](https://itnext.io/using-the-terraform-apply-command-a2b8413f6e77?source=rss-f8c0d8b1b817------2)
 - [CI/CD Pipelines: Everything You Need To Know](https://itnext.io/ci-cd-pipelines-everything-you-need-to-know-e0ef2754d449?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Best Practices](https://itnext.io/kubernetes-best-practices-d2bfb6fe3c19?source=rss-f8c0d8b1b817------2)
-- [AZ-140 Azure Virtual Desktop Specialty Exam Tips](https://itnext.io/az-140-azure-virtual-desktop-specialty-exam-tips-3809faf6093?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
