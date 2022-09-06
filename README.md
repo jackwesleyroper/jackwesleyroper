@@ -9,7 +9,8 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [How to Use the Terraform AWS Provider](https://jackwesleyroper.medium.com/how-to-use-the-terraform-aws-provider-5131f42f6b19?source=rss-f8c0d8b1b817------2)
+- [Formatting Terraform Code With the Terraform fmt Command](https://itnext.io/formatting-terraform-code-with-the-terraform-fmt-command-5b6474af3566?source=rss-f8c0d8b1b817------2)
+- [How to Use the Terraform AWS Provider](https://itnext.io/how-to-use-the-terraform-aws-provider-5131f42f6b19?source=rss-f8c0d8b1b817------2)
 - [Enable auto-completion for Kubectl in a Linux bash shell](https://medium.com/nerd-for-tech/enable-auto-completion-for-kubectl-in-a-linux-bash-shell-16420d42e3ec?source=rss-f8c0d8b1b817------2)
 - [Kubernetes cheat sheet](https://itnext.io/kubernetes-cheat-sheet-db19117477d0?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Deployment Strategies](https://faun.pub/kubernetes-deployment-strategies-f36e7e4d2be?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [What is a Kubernetes Cluster?](https://faun.pub/what-is-a-kubernetes-cluster-f558c3fd2a12?source=rss-f8c0d8b1b817------2)
 - [Terraform Providers](https://itnext.io/terraform-providers-cbb37e3974ea?source=rss-f8c0d8b1b817------2)
 - [Which cloud deployment model is right for your business?](https://itnext.io/which-cloud-deployment-model-is-right-for-your-business-96e191684d9d?source=rss-f8c0d8b1b817------2)
-- [How to use the Terraform join and split functions](https://medium.com/spacelift/how-to-use-the-terraform-join-and-split-functions-867999704d34?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
