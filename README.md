@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Ingress &amp; Examples](https://jackwesleyroper.medium.com/kubernetes-ingress-examples-f71ac22e9cfe?source=rss-f8c0d8b1b817------2)
 - [Formatting Terraform Code With the Terraform fmt Command](https://medium.com/codex/formatting-terraform-code-with-the-terraform-fmt-command-5b6474af3566?source=rss-f8c0d8b1b817------2)
 - [How to Use the Terraform AWS Provider](https://faun.pub/how-to-use-the-terraform-aws-provider-5131f42f6b19?source=rss-f8c0d8b1b817------2)
 - [Enable auto-completion for Kubectl in a Linux bash shell](https://medium.com/nerd-for-tech/enable-auto-completion-for-kubectl-in-a-linux-bash-shell-16420d42e3ec?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [The Lifecycle of a Terraform Resource — Lifecycle Meta-Argument](https://faun.pub/the-lifecycle-of-a-terraform-resource-lifecycle-meta-argument-3cc4555ec976?source=rss-f8c0d8b1b817------2)
 - [What is a Kubernetes Cluster?](https://faun.pub/what-is-a-kubernetes-cluster-f558c3fd2a12?source=rss-f8c0d8b1b817------2)
 - [Terraform Providers](https://itnext.io/terraform-providers-cbb37e3974ea?source=rss-f8c0d8b1b817------2)
-- [Which cloud deployment model is right for your business?](https://itnext.io/which-cloud-deployment-model-is-right-for-your-business-96e191684d9d?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
