@@ -9,7 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Terraform related articles index](https://itnext.io/terraform-related-articles-index-52fab8f11a0b?source=rss-f8c0d8b1b817------2)
+- [Terraform related articles index](https://jackwesleyroper.medium.com/terraform-related-articles-index-52fab8f11a0b?source=rss-f8c0d8b1b817------2)
 - [Kubernetes &lpar;K8S&rpar; related articles index](https://jackwesleyroper.medium.com/kubernetes-k8s-related-articles-index-54718769e390?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Ingress &amp; Examples](https://itnext.io/kubernetes-ingress-examples-f71ac22e9cfe?source=rss-f8c0d8b1b817------2)
 - [Formatting Terraform Code With the Terraform fmt Command](https://medium.com/codex/formatting-terraform-code-with-the-terraform-fmt-command-5b6474af3566?source=rss-f8c0d8b1b817------2)
