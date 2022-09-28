@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Set up the Microsoft Emissions Impact Dashboard for Azure!](https://medium.com/nerd-for-tech/set-up-the-microsoft-emissions-impact-dashboard-for-azure-d7145bc533cc?source=rss-f8c0d8b1b817------2)
 - [Terraform related articles index](https://jackwesleyroper.medium.com/terraform-related-articles-index-52fab8f11a0b?source=rss-f8c0d8b1b817------2)
 - [Kubernetes &lpar;K8S&rpar; related articles index](https://jackwesleyroper.medium.com/kubernetes-k8s-related-articles-index-54718769e390?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Ingress &amp; Examples](https://itnext.io/kubernetes-ingress-examples-f71ac22e9cfe?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Kubernetes cheat sheet](https://itnext.io/kubernetes-cheat-sheet-db19117477d0?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Deployment Strategies](https://faun.pub/kubernetes-deployment-strategies-f36e7e4d2be?source=rss-f8c0d8b1b817------2)
 - [Managing Terraform state](https://itnext.io/managing-terraform-state-27cf4fc135b?source=rss-f8c0d8b1b817------2)
-- [The Lifecycle of a Terraform Resource — Lifecycle Meta-Argument](https://faun.pub/the-lifecycle-of-a-terraform-resource-lifecycle-meta-argument-3cc4555ec976?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
