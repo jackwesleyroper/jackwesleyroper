@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to Restart Kubernetes Pods With Kubectl](https://itnext.io/how-to-restart-kubernetes-pods-with-kubectl-2a7834a6b961?source=rss-f8c0d8b1b817------2)
 - [Set up the Microsoft Emissions Impact Dashboard for Azure!](https://faun.pub/set-up-the-microsoft-emissions-impact-dashboard-for-azure-d7145bc533cc?source=rss-f8c0d8b1b817------2)
 - [Terraform related articles index](https://jackwesleyroper.medium.com/terraform-related-articles-index-52fab8f11a0b?source=rss-f8c0d8b1b817------2)
 - [Kubernetes &lpar;K8S&rpar; related articles index](https://jackwesleyroper.medium.com/kubernetes-k8s-related-articles-index-54718769e390?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Enable auto-completion for Kubectl in a Linux bash shell](https://medium.com/nerd-for-tech/enable-auto-completion-for-kubectl-in-a-linux-bash-shell-16420d42e3ec?source=rss-f8c0d8b1b817------2)
 - [Kubernetes cheat sheet](https://itnext.io/kubernetes-cheat-sheet-db19117477d0?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Deployment Strategies](https://faun.pub/kubernetes-deployment-strategies-f36e7e4d2be?source=rss-f8c0d8b1b817------2)
-- [Managing Terraform state](https://itnext.io/managing-terraform-state-27cf4fc135b?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
