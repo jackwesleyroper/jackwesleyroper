@@ -10,7 +10,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [How to Restart Kubernetes Pods With Kubectl](https://itnext.io/how-to-restart-kubernetes-pods-with-kubectl-2a7834a6b961?source=rss-f8c0d8b1b817------2)
-- [Set up the Microsoft Emissions Impact Dashboard for Azure!](https://faun.pub/set-up-the-microsoft-emissions-impact-dashboard-for-azure-d7145bc533cc?source=rss-f8c0d8b1b817------2)
+- [Calculate your Cloud carbon footprint!](https://faun.pub/set-up-the-microsoft-emissions-impact-dashboard-for-azure-d7145bc533cc?source=rss-f8c0d8b1b817------2)
 - [Terraform articles!](https://jackwesleyroper.medium.com/terraform-related-articles-index-52fab8f11a0b?source=rss-f8c0d8b1b817------2)
 - [Kubernetes &lpar;K8S&rpar; articles!](https://jackwesleyroper.medium.com/kubernetes-k8s-related-articles-index-54718769e390?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Ingress &amp; Examples](https://itnext.io/kubernetes-ingress-examples-f71ac22e9cfe?source=rss-f8c0d8b1b817------2)
