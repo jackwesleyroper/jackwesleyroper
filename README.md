@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to View Kubernetes Pod Logs With Kubectl](https://itnext.io/how-to-view-kubernetes-pod-logs-with-kubectl-e60b284102c1?source=rss-f8c0d8b1b817------2)
 - [Kubernetes CrashLoopBackoff Status](https://itnext.io/kubernetes-crashloopbackoff-status-d254dd642d10?source=rss-f8c0d8b1b817------2)
 - [What is Azure DevOps?](https://medium.com/spacelift/what-is-azure-devops-2a70cab9728b?source=rss-f8c0d8b1b817------2)
 - [Kubectl Apply vs. Kubectl Create](https://faun.pub/kubectl-apply-v-create-e3469a0b7639?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Kubernetes &lpar;K8S&rpar; articles!](https://jackwesleyroper.medium.com/kubernetes-k8s-related-articles-index-54718769e390?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Ingress &amp; Examples](https://itnext.io/kubernetes-ingress-examples-f71ac22e9cfe?source=rss-f8c0d8b1b817------2)
 - [Formatting Terraform Code With the Terraform fmt Command](https://medium.com/codex/formatting-terraform-code-with-the-terraform-fmt-command-5b6474af3566?source=rss-f8c0d8b1b817------2)
-- [How to Use the Terraform AWS Provider](https://faun.pub/how-to-use-the-terraform-aws-provider-5131f42f6b19?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
