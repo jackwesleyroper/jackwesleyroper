@@ -9,7 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Liveness Probes](https://itnext.io/kubernetes-liveness-probes-1a053f53690c?source=rss-f8c0d8b1b817------2)
+- [Kubernetes Liveness Probes](https://faun.pub/kubernetes-liveness-probes-1a053f53690c?source=rss-f8c0d8b1b817------2)
 - [Connect to containers using Kubectl Exec](https://itnext.io/connect-to-containers-using-kubectl-exec-b1fb5c171f03?source=rss-f8c0d8b1b817------2)
 - [How to Delete Pods from a Kubernetes Node](https://itnext.io/how-to-delete-pods-from-a-kubernetes-node-756231f1ae5f?source=rss-f8c0d8b1b817------2)
 - [How to View Kubernetes Pod Logs With Kubectl](https://itnext.io/how-to-view-kubernetes-pod-logs-with-kubectl-e60b284102c1?source=rss-f8c0d8b1b817------2)
