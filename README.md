@@ -9,7 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Azure ExpressRoute Explained](https://jackwesleyroper.medium.com/azure-expressroute-explained-9ad644f3c4af?source=rss-f8c0d8b1b817------2)
+- [Azure ExpressRoute Explained](https://itnext.io/azure-expressroute-explained-9ad644f3c4af?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Liveness Probes](https://faun.pub/kubernetes-liveness-probes-1a053f53690c?source=rss-f8c0d8b1b817------2)
 - [Connect to containers using Kubectl Exec](https://itnext.io/connect-to-containers-using-kubectl-exec-b1fb5c171f03?source=rss-f8c0d8b1b817------2)
 - [How to Delete Pods from a Kubernetes Node](https://itnext.io/how-to-delete-pods-from-a-kubernetes-node-756231f1ae5f?source=rss-f8c0d8b1b817------2)
