@@ -9,7 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [CronJobs in Kubernetes — Automating Tasks on a Schedule](https://itnext.io/cronjobs-in-kubernetes-automating-tasks-on-a-schedule-d2e2e155fe29?source=rss-f8c0d8b1b817------2)
+- [CronJobs in Kubernetes — Automating Tasks on a Schedule](https://faun.pub/cronjobs-in-kubernetes-automating-tasks-on-a-schedule-d2e2e155fe29?source=rss-f8c0d8b1b817------2)
 - [Azure ExpressRoute Explained](https://itnext.io/azure-expressroute-explained-9ad644f3c4af?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Liveness Probes](https://faun.pub/kubernetes-liveness-probes-1a053f53690c?source=rss-f8c0d8b1b817------2)
 - [Connect to containers using Kubectl Exec](https://itnext.io/connect-to-containers-using-kubectl-exec-b1fb5c171f03?source=rss-f8c0d8b1b817------2)
