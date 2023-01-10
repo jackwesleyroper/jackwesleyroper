@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [OpenShift vs. Kubernetes: What is the Difference?](https://jackwesleyroper.medium.com/openshift-vs-kubernetes-what-is-the-difference-cadee96497b7?source=rss-f8c0d8b1b817------2)
 - [How to Use the If / Else Statement in Terraform — Examples](https://medium.com/codex/how-to-use-the-if-else-statement-in-terraform-examples-76283b593828?source=rss-f8c0d8b1b817------2)
 - [CronJobs in Kubernetes — Automating Tasks on a Schedule](https://faun.pub/cronjobs-in-kubernetes-automating-tasks-on-a-schedule-d2e2e155fe29?source=rss-f8c0d8b1b817------2)
 - [Azure ExpressRoute Explained](https://itnext.io/azure-expressroute-explained-9ad644f3c4af?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [How to View Kubernetes Pod Logs With Kubectl](https://itnext.io/how-to-view-kubernetes-pod-logs-with-kubectl-e60b284102c1?source=rss-f8c0d8b1b817------2)
 - [Kubernetes CrashLoopBackoff Status](https://itnext.io/kubernetes-crashloopbackoff-status-d254dd642d10?source=rss-f8c0d8b1b817------2)
 - [What is Azure DevOps?](https://medium.com/spacelift/what-is-azure-devops-2a70cab9728b?source=rss-f8c0d8b1b817------2)
-- [Kubectl Apply vs. Kubectl Create](https://faun.pub/kubectl-apply-v-create-e3469a0b7639?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
