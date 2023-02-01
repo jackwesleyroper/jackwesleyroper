@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Working with Kubernetes Namespaces](https://itnext.io/working-with-kubernetes-namespaces-a57bcadab4c4?source=rss-f8c0d8b1b817------2)
 - [OpenShift vs. Kubernetes: What is the Difference?](https://itnext.io/openshift-vs-kubernetes-what-is-the-difference-cadee96497b7?source=rss-f8c0d8b1b817------2)
 - [How to Use the If / Else Statement in Terraform — Examples](https://medium.com/codex/how-to-use-the-if-else-statement-in-terraform-examples-76283b593828?source=rss-f8c0d8b1b817------2)
 - [CronJobs in Kubernetes — Automating Tasks on a Schedule](https://faun.pub/cronjobs-in-kubernetes-automating-tasks-on-a-schedule-d2e2e155fe29?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [How to Delete Pods from a Kubernetes Node](https://itnext.io/how-to-delete-pods-from-a-kubernetes-node-756231f1ae5f?source=rss-f8c0d8b1b817------2)
 - [How to View Kubernetes Pod Logs With Kubectl](https://itnext.io/how-to-view-kubernetes-pod-logs-with-kubectl-e60b284102c1?source=rss-f8c0d8b1b817------2)
 - [Kubernetes CrashLoopBackoff Status](https://itnext.io/kubernetes-crashloopbackoff-status-d254dd642d10?source=rss-f8c0d8b1b817------2)
-- [What is Azure DevOps?](https://medium.com/spacelift/what-is-azure-devops-2a70cab9728b?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
