@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Terraform console command](https://blog.devops.dev/terraform-console-command-381f772dfdd9?source=rss-f8c0d8b1b817------2)
 - [What are Kubernetes Custom Resource Definitions &lpar;CRDs&rpar;?](https://medium.com/spacelift/what-are-kubernetes-custom-resource-definitions-crds-d0181df0ad74?source=rss-f8c0d8b1b817------2)
 - [Provision Azure Kubernetes Service &lpar;AKS&rpar; Cluster using Terraform](https://faun.pub/provision-azure-kubernetes-service-aks-cluster-using-terraform-8fcda51e3596?source=rss-f8c0d8b1b817------2)
 - [Using Terraform to set up and deploy Docker containers](https://itnext.io/using-terraform-to-set-up-and-deploy-docker-containers-10843acd8e45?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [CronJobs in Kubernetes — Automating Tasks on a Schedule](https://faun.pub/cronjobs-in-kubernetes-automating-tasks-on-a-schedule-d2e2e155fe29?source=rss-f8c0d8b1b817------2)
 - [Azure ExpressRoute Explained](https://itnext.io/azure-expressroute-explained-9ad644f3c4af?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Liveness Probes](https://faun.pub/kubernetes-liveness-probes-1a053f53690c?source=rss-f8c0d8b1b817------2)
-- [Connect to containers using Kubectl Exec](https://itnext.io/connect-to-containers-using-kubectl-exec-b1fb5c171f03?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
