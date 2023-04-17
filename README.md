@@ -9,7 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Manage and deploy Kubernetes Resources with Terraform](https://itnext.io/manage-and-deploy-kubernetes-resources-with-terraform-c8becbc29452?source=rss-f8c0d8b1b817------2)
+- [Manage and deploy Kubernetes Resources with Terraform](https://faun.pub/manage-and-deploy-kubernetes-resources-with-terraform-c8becbc29452?source=rss-f8c0d8b1b817------2)
 - [Manage Multiple Terraform Versions With tfenv](https://itnext.io/manage-multiple-terraform-versions-with-tfenv-d3ed372104fc?source=rss-f8c0d8b1b817------2)
 - [Terraform console command](https://medium.com/codex/terraform-console-command-381f772dfdd9?source=rss-f8c0d8b1b817------2)
 - [What are Kubernetes Custom Resource Definitions &lpar;CRDs&rpar;?](https://medium.com/spacelift/what-are-kubernetes-custom-resource-definitions-crds-d0181df0ad74?source=rss-f8c0d8b1b817------2)
