@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Terraform for loop](https://itnext.io/terraform-for-loop-6c706f625f8f?source=rss-f8c0d8b1b817------2)
 - [Manage and deploy Kubernetes Resources with Terraform](https://faun.pub/manage-and-deploy-kubernetes-resources-with-terraform-c8becbc29452?source=rss-f8c0d8b1b817------2)
 - [Manage Multiple Terraform Versions With tfenv](https://itnext.io/manage-multiple-terraform-versions-with-tfenv-d3ed372104fc?source=rss-f8c0d8b1b817------2)
 - [Terraform console command](https://medium.com/codex/terraform-console-command-381f772dfdd9?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Working with Kubernetes Namespaces](https://faun.pub/working-with-kubernetes-namespaces-a57bcadab4c4?source=rss-f8c0d8b1b817------2)
 - [OpenShift vs. Kubernetes: What is the Difference?](https://itnext.io/openshift-vs-kubernetes-what-is-the-difference-cadee96497b7?source=rss-f8c0d8b1b817------2)
 - [How to Use the If / Else Statement in Terraform — Examples](https://medium.com/codex/how-to-use-the-if-else-statement-in-terraform-examples-76283b593828?source=rss-f8c0d8b1b817------2)
-- [CronJobs in Kubernetes — Automating Tasks on a Schedule](https://faun.pub/cronjobs-in-kubernetes-automating-tasks-on-a-schedule-d2e2e155fe29?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
