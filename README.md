@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Terraform refresh command](https://jackwesleyroper.medium.com/terraform-refresh-command-bc582334deb9?source=rss-f8c0d8b1b817------2)
 - [Terraform for loop](https://faun.pub/terraform-for-loop-6c706f625f8f?source=rss-f8c0d8b1b817------2)
 - [Manage and deploy Kubernetes Resources with Terraform](https://faun.pub/manage-and-deploy-kubernetes-resources-with-terraform-c8becbc29452?source=rss-f8c0d8b1b817------2)
 - [Manage Multiple Terraform Versions With tfenv](https://itnext.io/manage-multiple-terraform-versions-with-tfenv-d3ed372104fc?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Using Terraform to set up and deploy Docker containers](https://itnext.io/using-terraform-to-set-up-and-deploy-docker-containers-10843acd8e45?source=rss-f8c0d8b1b817------2)
 - [Working with Kubernetes Namespaces](https://faun.pub/working-with-kubernetes-namespaces-a57bcadab4c4?source=rss-f8c0d8b1b817------2)
 - [OpenShift vs. Kubernetes: What is the Difference?](https://itnext.io/openshift-vs-kubernetes-what-is-the-difference-cadee96497b7?source=rss-f8c0d8b1b817------2)
-- [How to Use the If / Else Statement in Terraform — Examples](https://medium.com/codex/how-to-use-the-if-else-statement-in-terraform-examples-76283b593828?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
