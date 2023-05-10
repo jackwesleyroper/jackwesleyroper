@@ -9,7 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Environment Variables Introduction](https://itnext.io/terraform-environment-variables-introduction-4e1acbc81ea4?source=rss-f8c0d8b1b817------2)
+- [Terraform Environment Variables Introduction](https://medium.com/codex/terraform-environment-variables-introduction-4e1acbc81ea4?source=rss-f8c0d8b1b817------2)
 - [9 Container Security Best Practices &amp; Solutions](https://itnext.io/9-container-security-best-practices-solutions-49f23da8e064?source=rss-f8c0d8b1b817------2)
 - [Terraform refresh command](https://medium.com/spacelift/terraform-refresh-command-bc582334deb9?source=rss-f8c0d8b1b817------2)
 - [Terraform for loop](https://faun.pub/terraform-for-loop-6c706f625f8f?source=rss-f8c0d8b1b817------2)
