@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to Test Terraform Code — Strategies and Tools](https://itnext.io/how-to-test-your-terraform-code-8461980d34e6?source=rss-f8c0d8b1b817------2)
 - [Terraform Environment Variables Introduction](https://medium.com/codex/terraform-environment-variables-introduction-4e1acbc81ea4?source=rss-f8c0d8b1b817------2)
 - [9 Container Security Best Practices &amp; Solutions](https://itnext.io/9-container-security-best-practices-solutions-49f23da8e064?source=rss-f8c0d8b1b817------2)
 - [Terraform refresh command](https://medium.com/spacelift/terraform-refresh-command-bc582334deb9?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Terraform console command](https://medium.com/codex/terraform-console-command-381f772dfdd9?source=rss-f8c0d8b1b817------2)
 - [What are Kubernetes Custom Resource Definitions &lpar;CRDs&rpar;?](https://medium.com/spacelift/what-are-kubernetes-custom-resource-definitions-crds-d0181df0ad74?source=rss-f8c0d8b1b817------2)
 - [Provision Azure Kubernetes Service &lpar;AKS&rpar; Cluster using Terraform](https://faun.pub/provision-azure-kubernetes-service-aks-cluster-using-terraform-8fcda51e3596?source=rss-f8c0d8b1b817------2)
-- [Using Terraform to set up and deploy Docker containers](https://itnext.io/using-terraform-to-set-up-and-deploy-docker-containers-10843acd8e45?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
