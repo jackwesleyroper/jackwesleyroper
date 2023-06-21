@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Create an EC2 instance on AWS with Terraform](https://itnext.io/create-an-ec2-instance-on-aws-with-terraform-173318ca1b8e?source=rss-f8c0d8b1b817------2)
 - [How to Fix OOMKilled Kubernetes Error &lpar;Exit Code 137&rpar;](https://itnext.io/how-to-fix-oomkilled-kubernetes-error-exit-code-137-88352410f0d4?source=rss-f8c0d8b1b817------2)
 - [CKA Exam Tips](https://medium.com/codex/cka-exam-tips-eaade4724b58?source=rss-f8c0d8b1b817------2)
 - [How to Test Terraform Code — Strategies and Tools](https://itnext.io/how-to-test-your-terraform-code-8461980d34e6?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Terraform for loop](https://faun.pub/terraform-for-loop-6c706f625f8f?source=rss-f8c0d8b1b817------2)
 - [Manage and deploy Kubernetes Resources with Terraform](https://faun.pub/manage-and-deploy-kubernetes-resources-with-terraform-c8becbc29452?source=rss-f8c0d8b1b817------2)
 - [Manage Multiple Terraform Versions With tfenv](https://itnext.io/manage-multiple-terraform-versions-with-tfenv-d3ed372104fc?source=rss-f8c0d8b1b817------2)
-- [Terraform console command](https://medium.com/codex/terraform-console-command-381f772dfdd9?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
