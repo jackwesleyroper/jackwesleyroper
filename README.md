@@ -18,7 +18,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Terraform refresh command](https://medium.com/spacelift/terraform-refresh-command-bc582334deb9?source=rss-f8c0d8b1b817------2)
 - [Terraform for loop](https://faun.pub/terraform-for-loop-6c706f625f8f?source=rss-f8c0d8b1b817------2)
 - [Manage and deploy Kubernetes Resources with Terraform](https://faun.pub/manage-and-deploy-kubernetes-resources-with-terraform-c8becbc29452?source=rss-f8c0d8b1b817------2)
-- [Manage Multiple Terraform Versions With tfenv](https://itnext.io/manage-multiple-terraform-versions-with-tfenv-d3ed372104fc?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
