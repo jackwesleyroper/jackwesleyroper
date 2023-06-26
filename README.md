@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [What is Kubernetes Load Balancer?](https://itnext.io/what-is-kubernetes-load-balancer-4f65a8294f5f?source=rss-f8c0d8b1b817------2)
 - [Create an EC2 instance on AWS with Terraform](https://itnext.io/create-an-ec2-instance-on-aws-with-terraform-173318ca1b8e?source=rss-f8c0d8b1b817------2)
 - [How to Fix OOMKilled Kubernetes Error &lpar;Exit Code 137&rpar;](https://itnext.io/how-to-fix-oomkilled-kubernetes-error-exit-code-137-88352410f0d4?source=rss-f8c0d8b1b817------2)
 - [CKA Exam Tips](https://medium.com/codex/cka-exam-tips-eaade4724b58?source=rss-f8c0d8b1b817------2)
