@@ -9,7 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Managing Datadog with Terraform](https://itnext.io/managing-datadog-with-terraform-61d63b5602b2?source=rss-f8c0d8b1b817------2)
+- [Managing Datadog with Terraform](https://faun.pub/managing-datadog-with-terraform-61d63b5602b2?source=rss-f8c0d8b1b817------2)
 - [What is Kubernetes Load Balancer?](https://itnext.io/what-is-kubernetes-load-balancer-4f65a8294f5f?source=rss-f8c0d8b1b817------2)
 - [Create an EC2 instance on AWS with Terraform](https://itnext.io/create-an-ec2-instance-on-aws-with-terraform-173318ca1b8e?source=rss-f8c0d8b1b817------2)
 - [How to Fix OOMKilled Kubernetes Error &lpar;Exit Code 137&rpar;](https://itnext.io/how-to-fix-oomkilled-kubernetes-error-exit-code-137-88352410f0d4?source=rss-f8c0d8b1b817------2)
