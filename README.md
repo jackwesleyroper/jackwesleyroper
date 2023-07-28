@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Using Terraform Helm Provider to Deploy Applications](https://itnext.io/using-terraform-helm-provider-to-deploy-applications-fffb795eed35?source=rss-f8c0d8b1b817------2)
 - [Managing Datadog with Terraform](https://faun.pub/managing-datadog-with-terraform-61d63b5602b2?source=rss-f8c0d8b1b817------2)
 - [What is Kubernetes Load Balancer?](https://itnext.io/what-is-kubernetes-load-balancer-4f65a8294f5f?source=rss-f8c0d8b1b817------2)
 - [Create an EC2 instance on AWS with Terraform](https://itnext.io/create-an-ec2-instance-on-aws-with-terraform-173318ca1b8e?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Terraform Environment Variables Introduction](https://medium.com/codex/terraform-environment-variables-introduction-4e1acbc81ea4?source=rss-f8c0d8b1b817------2)
 - [9 Container Security Best Practices &amp; Solutions](https://itnext.io/9-container-security-best-practices-solutions-49f23da8e064?source=rss-f8c0d8b1b817------2)
 - [Terraform refresh command](https://medium.com/spacelift/terraform-refresh-command-bc582334deb9?source=rss-f8c0d8b1b817------2)
-- [Terraform for loop](https://faun.pub/terraform-for-loop-6c706f625f8f?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
