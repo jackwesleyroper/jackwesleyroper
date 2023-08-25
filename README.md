@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [What is Checkov?](https://jackwesleyroper.medium.com/what-is-checkov-df37b8adfacf?source=rss-f8c0d8b1b817------2)
 - [Azure Cost Management – Best Practices &amp; Tools](https://itnext.io/azure-cost-management-best-practices-tools-a37e8af2ba42?source=rss-f8c0d8b1b817------2)
 - [Using Terraform Helm Provider to Deploy Applications](https://itnext.io/using-terraform-helm-provider-to-deploy-applications-fffb795eed35?source=rss-f8c0d8b1b817------2)
 - [Managing Datadog with Terraform](https://faun.pub/managing-datadog-with-terraform-61d63b5602b2?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [CKA Exam Tips](https://medium.com/codex/cka-exam-tips-eaade4724b58?source=rss-f8c0d8b1b817------2)
 - [How to Test Terraform Code — Strategies and Tools](https://itnext.io/how-to-test-your-terraform-code-8461980d34e6?source=rss-f8c0d8b1b817------2)
 - [Terraform Environment Variables Introduction](https://medium.com/codex/terraform-environment-variables-introduction-4e1acbc81ea4?source=rss-f8c0d8b1b817------2)
-- [9 Container Security Best Practices &amp; Solutions](https://itnext.io/9-container-security-best-practices-solutions-49f23da8e064?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
