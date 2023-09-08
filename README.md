@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to target resources in Terraform](https://medium.com/codex/how-to-target-resources-in-terraform-2111b023b02a?source=rss-f8c0d8b1b817------2)
 - [What is TFLint?](https://faun.pub/what-is-tflint-2cd2bb463c96?source=rss-f8c0d8b1b817------2)
 - [What is Checkov?](https://itnext.io/what-is-checkov-df37b8adfacf?source=rss-f8c0d8b1b817------2)
 - [Azure Cost Management – Best Practices &amp; Tools](https://itnext.io/azure-cost-management-best-practices-tools-a37e8af2ba42?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Create an EC2 instance on AWS with Terraform](https://itnext.io/create-an-ec2-instance-on-aws-with-terraform-173318ca1b8e?source=rss-f8c0d8b1b817------2)
 - [How to Fix OOMKilled Kubernetes Error &lpar;Exit Code 137&rpar;](https://itnext.io/how-to-fix-oomkilled-kubernetes-error-exit-code-137-88352410f0d4?source=rss-f8c0d8b1b817------2)
 - [CKA Exam Tips](https://medium.com/codex/cka-exam-tips-eaade4724b58?source=rss-f8c0d8b1b817------2)
-- [How to Test Terraform Code — Strategies and Tools](https://itnext.io/how-to-test-your-terraform-code-8461980d34e6?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
