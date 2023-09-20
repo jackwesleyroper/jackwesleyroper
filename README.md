@@ -9,7 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [How to Create &amp; Use Gitignore File With Terraform](https://medium.com/nerd-for-tech/how-to-create-use-gitignore-file-with-terraform-ea4e96a405da?source=rss-f8c0d8b1b817------2)
+- [How to Create &amp; Use Gitignore File With Terraform](https://medium.com/spacelift/how-to-create-use-gitignore-file-with-terraform-ea4e96a405da?source=rss-f8c0d8b1b817------2)
 - [How To Create IAM Role Using Terraform](https://itnext.io/how-to-create-iam-role-using-terraform-656e1d368c40?source=rss-f8c0d8b1b817------2)
 - [How to target resources in Terraform](https://medium.com/codex/how-to-target-resources-in-terraform-2111b023b02a?source=rss-f8c0d8b1b817------2)
 - [What is TFLint?](https://faun.pub/what-is-tflint-2cd2bb463c96?source=rss-f8c0d8b1b817------2)
