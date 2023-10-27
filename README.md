@@ -9,7 +9,8 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy AWS Autoscaling Groups with Terraform](https://itnext.io/how-to-deploy-aws-autoscaling-groups-with-terraform-102ad279632e?source=rss-f8c0d8b1b817------2)
+- [How to Use Kubectl Delete Deployment in Kubernetes](https://faun.pub/how-to-use-kubectl-delete-deployment-in-kubernetes-fe81ba30f355?source=rss-f8c0d8b1b817------2)
+- [How to Deploy AWS Autoscaling Groups with Terraform](https://medium.com/codex/how-to-deploy-aws-autoscaling-groups-with-terraform-102ad279632e?source=rss-f8c0d8b1b817------2)
 - [Terraform Merge](https://itnext.io/terraform-merge-2f579c25db56?source=rss-f8c0d8b1b817------2)
 - [Terraform Map](https://itnext.io/terraform-map-f2950b7da0d5?source=rss-f8c0d8b1b817------2)
 - [Terragrunt Tutorial](https://itnext.io/terragrunt-tutorial-e66fe655aa81?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [How to target resources in Terraform](https://medium.com/codex/how-to-target-resources-in-terraform-2111b023b02a?source=rss-f8c0d8b1b817------2)
 - [What is TFLint?](https://faun.pub/what-is-tflint-2cd2bb463c96?source=rss-f8c0d8b1b817------2)
 - [What is Checkov?](https://itnext.io/what-is-checkov-df37b8adfacf?source=rss-f8c0d8b1b817------2)
-- [Azure Cost Management – Best Practices &amp; Tools](https://itnext.io/azure-cost-management-best-practices-tools-a37e8af2ba42?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
