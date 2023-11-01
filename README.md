@@ -9,7 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [What is Terrascan?](https://itnext.io/what-is-terrascan-26d53f2051e6?source=rss-f8c0d8b1b817------2)
+- [What is Terrascan?](https://faun.pub/what-is-terrascan-26d53f2051e6?source=rss-f8c0d8b1b817------2)
 - [How to Use Kubectl Delete Deployment in Kubernetes](https://faun.pub/how-to-use-kubectl-delete-deployment-in-kubernetes-fe81ba30f355?source=rss-f8c0d8b1b817------2)
 - [How to Deploy AWS Autoscaling Groups with Terraform](https://medium.com/codex/how-to-deploy-aws-autoscaling-groups-with-terraform-102ad279632e?source=rss-f8c0d8b1b817------2)
 - [Terraform Merge](https://itnext.io/terraform-merge-2f579c25db56?source=rss-f8c0d8b1b817------2)
