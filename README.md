@@ -11,7 +11,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 <!-- BLOG-POST-LIST:START -->
 - [How to Use Terraform Flatten Function](https://medium.com/codex/how-to-use-terraform-flatten-function-e9aeba83f8c9?source=rss-f8c0d8b1b817------2)
 - [What is Terrascan?](https://blog.devops.dev/what-is-terrascan-26d53f2051e6?source=rss-f8c0d8b1b817------2)
-- [How to Use Kubectl Delete Deployment in Kubernetes](https://blog.devops.dev/how-to-use-kubectl-delete-deployment-in-kubernetes-fe81ba30f355?source=rss-f8c0d8b1b817------2)
+- [How to Use Kubectl Delete Deployment in Kubernetes](https://medium.com/nerd-for-tech/how-to-use-kubectl-delete-deployment-in-kubernetes-fe81ba30f355?source=rss-f8c0d8b1b817------2)
 - [How to Deploy AWS Autoscaling Groups with Terraform](https://medium.com/codex/how-to-deploy-aws-autoscaling-groups-with-terraform-102ad279632e?source=rss-f8c0d8b1b817------2)
 - [Terraform Merge](https://itnext.io/terraform-merge-2f579c25db56?source=rss-f8c0d8b1b817------2)
 - [Terraform Map](https://itnext.io/terraform-map-f2950b7da0d5?source=rss-f8c0d8b1b817------2)
