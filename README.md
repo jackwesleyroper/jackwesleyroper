@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to Stop and Remove Docker Containers](https://jackwesleyroper.medium.com/how-to-stop-and-remove-docker-containers-bfd72ef22fae?source=rss-f8c0d8b1b817------2)
 - [How to Use Terraform Flatten Function](https://medium.com/codex/how-to-use-terraform-flatten-function-e9aeba83f8c9?source=rss-f8c0d8b1b817------2)
 - [What is Terrascan?](https://blog.devops.dev/what-is-terrascan-26d53f2051e6?source=rss-f8c0d8b1b817------2)
 - [How to Use Kubectl Delete Deployment in Kubernetes](https://medium.com/nerd-for-tech/how-to-use-kubectl-delete-deployment-in-kubernetes-fe81ba30f355?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Terragrunt Tutorial](https://itnext.io/terragrunt-tutorial-e66fe655aa81?source=rss-f8c0d8b1b817------2)
 - [How to Create &amp; Use Gitignore File With Terraform](https://medium.com/spacelift/how-to-create-use-gitignore-file-with-terraform-ea4e96a405da?source=rss-f8c0d8b1b817------2)
 - [How To Create IAM Role Using Terraform](https://itnext.io/how-to-create-iam-role-using-terraform-656e1d368c40?source=rss-f8c0d8b1b817------2)
-- [How to target resources in Terraform](https://medium.com/codex/how-to-target-resources-in-terraform-2111b023b02a?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
