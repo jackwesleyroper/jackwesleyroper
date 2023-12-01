@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Terraform State Rm: How to Remove a Resource From State File](https://itnext.io/terraform-state-rm-how-to-remove-a-resource-from-state-file-ad9a93381ec0?source=rss-f8c0d8b1b817------2)
 - [How to Use Optional Arguments in Terraform Variables](https://blog.devops.dev/how-to-use-optional-arguments-in-terraform-variables-bf578e9cd6b3?source=rss-f8c0d8b1b817------2)
 - [Terraform Resources Overview](https://blog.devops.dev/terraform-resources-overview-219ecbcc5f49?source=rss-f8c0d8b1b817------2)
 - [How to Stop and Remove Docker Containers](https://blog.devops.dev/how-to-stop-and-remove-docker-containers-bfd72ef22fae?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [How to Deploy AWS Autoscaling Groups with Terraform](https://medium.com/codex/how-to-deploy-aws-autoscaling-groups-with-terraform-102ad279632e?source=rss-f8c0d8b1b817------2)
 - [Terraform Merge](https://itnext.io/terraform-merge-2f579c25db56?source=rss-f8c0d8b1b817------2)
 - [Terraform Map](https://itnext.io/terraform-map-f2950b7da0d5?source=rss-f8c0d8b1b817------2)
-- [Terragrunt Tutorial](https://itnext.io/terragrunt-tutorial-e66fe655aa81?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
