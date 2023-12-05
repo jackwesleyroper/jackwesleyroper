@@ -9,7 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Deployment YAML File with Examples](https://jackwesleyroper.medium.com/kubernetes-deployment-yaml-file-with-examples-174f112d529e?source=rss-f8c0d8b1b817------2)
+- [Kubernetes Deployment YAML File with Examples](https://blog.devops.dev/kubernetes-deployment-yaml-file-with-examples-174f112d529e?source=rss-f8c0d8b1b817------2)
 - [Terraform State Rm: How to Remove a Resource From State File](https://itnext.io/terraform-state-rm-how-to-remove-a-resource-from-state-file-ad9a93381ec0?source=rss-f8c0d8b1b817------2)
 - [How to Use Optional Arguments in Terraform Variables](https://blog.devops.dev/how-to-use-optional-arguments-in-terraform-variables-bf578e9cd6b3?source=rss-f8c0d8b1b817------2)
 - [Terraform Resources Overview](https://blog.devops.dev/terraform-resources-overview-219ecbcc5f49?source=rss-f8c0d8b1b817------2)
