@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Terraform Jsonencode Function — Definition &amp; Examples](https://blog.devops.dev/terraform-jsonencode-function-definition-examples-1d4ca790bdeb?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Deployment YAML File with Examples](https://blog.devops.dev/kubernetes-deployment-yaml-file-with-examples-174f112d529e?source=rss-f8c0d8b1b817------2)
 - [Terraform State Rm: How to Remove a Resource From State File](https://itnext.io/terraform-state-rm-how-to-remove-a-resource-from-state-file-ad9a93381ec0?source=rss-f8c0d8b1b817------2)
 - [How to Use Optional Arguments in Terraform Variables](https://blog.devops.dev/how-to-use-optional-arguments-in-terraform-variables-bf578e9cd6b3?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [What is Terrascan?](https://blog.devops.dev/what-is-terrascan-26d53f2051e6?source=rss-f8c0d8b1b817------2)
 - [How to Use Kubectl Delete Deployment in Kubernetes](https://medium.com/nerd-for-tech/how-to-use-kubectl-delete-deployment-in-kubernetes-fe81ba30f355?source=rss-f8c0d8b1b817------2)
 - [How to Deploy AWS Autoscaling Groups with Terraform](https://medium.com/codex/how-to-deploy-aws-autoscaling-groups-with-terraform-102ad279632e?source=rss-f8c0d8b1b817------2)
-- [Terraform Merge](https://itnext.io/terraform-merge-2f579c25db56?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
