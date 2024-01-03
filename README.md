@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Readiness Probe](https://blog.devops.dev/kubernetes-readiness-probe-bba1884fdf5e?source=rss-f8c0d8b1b817------2)
 - [Kubectl cp — How to Copy File From a Pod to Local](https://itnext.io/kubectl-cp-how-to-copy-file-from-a-pod-to-local-d2d0a600c43c?source=rss-f8c0d8b1b817------2)
 - [Terraform Jsonencode Function — Definition &amp; Examples](https://blog.devops.dev/terraform-jsonencode-function-definition-examples-1d4ca790bdeb?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Deployment YAML File with Examples](https://blog.devops.dev/kubernetes-deployment-yaml-file-with-examples-174f112d529e?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [How to Stop and Remove Docker Containers](https://blog.devops.dev/how-to-stop-and-remove-docker-containers-bfd72ef22fae?source=rss-f8c0d8b1b817------2)
 - [How to Use Terraform Flatten Function](https://medium.com/codex/how-to-use-terraform-flatten-function-e9aeba83f8c9?source=rss-f8c0d8b1b817------2)
 - [What is Terrascan?](https://blog.devops.dev/what-is-terrascan-26d53f2051e6?source=rss-f8c0d8b1b817------2)
-- [How to Use Kubectl Delete Deployment in Kubernetes](https://medium.com/nerd-for-tech/how-to-use-kubectl-delete-deployment-in-kubernetes-fe81ba30f355?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
