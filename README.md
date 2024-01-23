@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Terraform Coalesce Function — How to Use it &amp; Examples](https://blog.devops.dev/terraform-coalesce-function-how-to-use-it-examples-cc357c2a1913?source=rss-f8c0d8b1b817------2)
 - [Exit code 127 in Kubernetes](https://itnext.io/exit-code-127-in-kubernetes-fa8da084fc5f?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Readiness Probe](https://blog.devops.dev/kubernetes-readiness-probe-bba1884fdf5e?source=rss-f8c0d8b1b817------2)
 - [Kubectl cp — How to Copy File From a Pod to Local](https://itnext.io/kubectl-cp-how-to-copy-file-from-a-pod-to-local-d2d0a600c43c?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [How to Use Optional Arguments in Terraform Variables](https://blog.devops.dev/how-to-use-optional-arguments-in-terraform-variables-bf578e9cd6b3?source=rss-f8c0d8b1b817------2)
 - [Terraform Resources Overview](https://blog.devops.dev/terraform-resources-overview-219ecbcc5f49?source=rss-f8c0d8b1b817------2)
 - [How to Stop and Remove Docker Containers](https://blog.devops.dev/how-to-stop-and-remove-docker-containers-bfd72ef22fae?source=rss-f8c0d8b1b817------2)
-- [How to Use Terraform Flatten Function](https://medium.com/codex/how-to-use-terraform-flatten-function-e9aeba83f8c9?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
