@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Terraform Toset Function](https://blog.devops.dev/how-to-use-terraform-toset-function-8f66bdb64a30?source=rss-f8c0d8b1b817------2)
 - [Terraform Coalesce Function — How to Use it &amp; Examples](https://blog.devops.dev/terraform-coalesce-function-how-to-use-it-examples-cc357c2a1913?source=rss-f8c0d8b1b817------2)
 - [Exit code 127 in Kubernetes](https://itnext.io/exit-code-127-in-kubernetes-fa8da084fc5f?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Readiness Probe](https://blog.devops.dev/kubernetes-readiness-probe-bba1884fdf5e?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Terraform State Rm: How to Remove a Resource From State File](https://itnext.io/terraform-state-rm-how-to-remove-a-resource-from-state-file-ad9a93381ec0?source=rss-f8c0d8b1b817------2)
 - [How to Use Optional Arguments in Terraform Variables](https://blog.devops.dev/how-to-use-optional-arguments-in-terraform-variables-bf578e9cd6b3?source=rss-f8c0d8b1b817------2)
 - [Terraform Resources Overview](https://blog.devops.dev/terraform-resources-overview-219ecbcc5f49?source=rss-f8c0d8b1b817------2)
-- [How to Stop and Remove Docker Containers](https://blog.devops.dev/how-to-stop-and-remove-docker-containers-bfd72ef22fae?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
