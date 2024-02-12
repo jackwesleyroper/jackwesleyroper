@@ -10,7 +10,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Terraform File Paths — Path Module, Root and Cwd](https://itnext.io/terraform-file-paths-path-module-root-and-cwd-0d2214bf0f5d?source=rss-f8c0d8b1b817------2)
-- [How to Generate Images with Terraform Graph Command](https://itnext.io/how-to-generate-images-with-terraform-graph-command-2dddeac7390a?source=rss-f8c0d8b1b817------2)
+- [How to Generate Images with Terraform Graph Command](https://jackwesleyroper.medium.com/how-to-generate-images-with-terraform-graph-command-2dddeac7390a?source=rss-f8c0d8b1b817------2)
 - [How to Use Terraform Toset Function](https://blog.devops.dev/how-to-use-terraform-toset-function-8f66bdb64a30?source=rss-f8c0d8b1b817------2)
 - [Terraform Coalesce Function — How to Use it &amp; Examples](https://blog.devops.dev/terraform-coalesce-function-how-to-use-it-examples-cc357c2a1913?source=rss-f8c0d8b1b817------2)
 - [Exit code 127 in Kubernetes](https://itnext.io/exit-code-127-in-kubernetes-fa8da084fc5f?source=rss-f8c0d8b1b817------2)
