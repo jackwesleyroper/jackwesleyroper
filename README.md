@@ -9,7 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Terraform Try &amp; Can Functions](https://itnext.io/how-to-use-terraform-try-can-functions-ac4b9cfcad30?source=rss-f8c0d8b1b817------2)
+- [How to Use Terraform Try &amp; Can Functions](https://blog.devops.dev/how-to-use-terraform-try-can-functions-ac4b9cfcad30?source=rss-f8c0d8b1b817------2)
 - [Azure ARM Templates](https://itnext.io/azure-arm-templates-ed7ad21e1ac6?source=rss-f8c0d8b1b817------2)
 - [Terraform File Paths — Path Module, Root and Cwd](https://itnext.io/terraform-file-paths-path-module-root-and-cwd-0d2214bf0f5d?source=rss-f8c0d8b1b817------2)
 - [How to Generate Images with Terraform Graph Command](https://faun.pub/how-to-generate-images-with-terraform-graph-command-2dddeac7390a?source=rss-f8c0d8b1b817------2)
