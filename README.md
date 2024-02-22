@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Terraform Try &amp; Can Functions](https://itnext.io/how-to-use-terraform-try-can-functions-ac4b9cfcad30?source=rss-f8c0d8b1b817------2)
 - [Azure ARM Templates](https://itnext.io/azure-arm-templates-ed7ad21e1ac6?source=rss-f8c0d8b1b817------2)
 - [Terraform File Paths — Path Module, Root and Cwd](https://itnext.io/terraform-file-paths-path-module-root-and-cwd-0d2214bf0f5d?source=rss-f8c0d8b1b817------2)
 - [How to Generate Images with Terraform Graph Command](https://faun.pub/how-to-generate-images-with-terraform-graph-command-2dddeac7390a?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Kubernetes Readiness Probe](https://blog.devops.dev/kubernetes-readiness-probe-bba1884fdf5e?source=rss-f8c0d8b1b817------2)
 - [Kubectl cp — How to Copy File From a Pod to Local](https://itnext.io/kubectl-cp-how-to-copy-file-from-a-pod-to-local-d2d0a600c43c?source=rss-f8c0d8b1b817------2)
 - [Terraform Jsonencode Function — Definition &amp; Examples](https://blog.devops.dev/terraform-jsonencode-function-definition-examples-1d4ca790bdeb?source=rss-f8c0d8b1b817------2)
-- [Kubernetes Deployment YAML File with Examples](https://blog.devops.dev/kubernetes-deployment-yaml-file-with-examples-174f112d529e?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
