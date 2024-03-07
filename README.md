@@ -9,7 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Kubectl Port-forward in Kubernetes Applications](https://jackwesleyroper.medium.com/how-to-use-kubectl-port-forward-in-kubernetes-applications-1b924e051265?source=rss-f8c0d8b1b817------2)
+- [How to Use Kubectl Port-forward in Kubernetes Applications](https://blog.devops.dev/how-to-use-kubectl-port-forward-in-kubernetes-applications-1b924e051265?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Dashboard](https://itnext.io/kubernetes-dashboard-4c60d59496af?source=rss-f8c0d8b1b817------2)
 - [How to Use Terraform Try &amp; Can Functions](https://blog.devops.dev/how-to-use-terraform-try-can-functions-ac4b9cfcad30?source=rss-f8c0d8b1b817------2)
 - [Azure ARM Templates](https://itnext.io/azure-arm-templates-ed7ad21e1ac6?source=rss-f8c0d8b1b817------2)
