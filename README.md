@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Open Policy Agent &lpar;OPA&rpar; with Terraform](https://itnext.io/how-to-use-open-policy-agent-opa-with-terraform-3ab384a8f965?source=rss-f8c0d8b1b817------2)
 - [How to Use Kubectl Port-forward in Kubernetes Applications](https://blog.devops.dev/how-to-use-kubectl-port-forward-in-kubernetes-applications-1b924e051265?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Dashboard](https://itnext.io/kubernetes-dashboard-4c60d59496af?source=rss-f8c0d8b1b817------2)
 - [How to Use Terraform Try &amp; Can Functions](https://blog.devops.dev/how-to-use-terraform-try-can-functions-ac4b9cfcad30?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [How to Use Terraform Toset Function](https://blog.devops.dev/how-to-use-terraform-toset-function-8f66bdb64a30?source=rss-f8c0d8b1b817------2)
 - [Terraform Coalesce Function — How to Use it &amp; Examples](https://blog.devops.dev/terraform-coalesce-function-how-to-use-it-examples-cc357c2a1913?source=rss-f8c0d8b1b817------2)
 - [Exit code 127 in Kubernetes](https://itnext.io/exit-code-127-in-kubernetes-fa8da084fc5f?source=rss-f8c0d8b1b817------2)
-- [Kubernetes Readiness Probe](https://blog.devops.dev/kubernetes-readiness-probe-bba1884fdf5e?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
