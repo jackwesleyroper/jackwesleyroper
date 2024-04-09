@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Terraform with Azure DevOps CI/CD Pipelines](https://blog.devops.dev/terraform-with-azure-devops-ci-cd-pipelines-28b166fa405b?source=rss-f8c0d8b1b817------2)
 - [Using Azure for Infrastructure as Code](https://blog.devops.dev/using-azure-for-infrastructure-as-code-04cf9b6e8c87?source=rss-f8c0d8b1b817------2)
 - [How to Use Open Policy Agent &lpar;OPA&rpar; with Terraform](https://itnext.io/how-to-use-open-policy-agent-opa-with-terraform-3ab384a8f965?source=rss-f8c0d8b1b817------2)
 - [How to Use Kubectl Port-forward in Kubernetes Applications](https://blog.devops.dev/how-to-use-kubectl-port-forward-in-kubernetes-applications-1b924e051265?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Terraform File Paths — Path Module, Root and Cwd](https://itnext.io/terraform-file-paths-path-module-root-and-cwd-0d2214bf0f5d?source=rss-f8c0d8b1b817------2)
 - [How to Generate Images with Terraform Graph Command](https://faun.pub/how-to-generate-images-with-terraform-graph-command-2dddeac7390a?source=rss-f8c0d8b1b817------2)
 - [How to Use Terraform Toset Function](https://blog.devops.dev/how-to-use-terraform-toset-function-8f66bdb64a30?source=rss-f8c0d8b1b817------2)
-- [Terraform Coalesce Function — How to Use it &amp; Examples](https://blog.devops.dev/terraform-coalesce-function-how-to-use-it-examples-cc357c2a1913?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
