@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Ignore_Changes Argument in Terraform Lifecycle](https://itnext.io/how-to-use-ignore-changes-argument-in-terraform-lifecycle-99775806f5e7?source=rss-f8c0d8b1b817------2)
 - [How to Manage Terraform State with GitLab](https://itnext.io/how-to-manage-terraform-state-with-gitlab-c861e80ecab6?source=rss-f8c0d8b1b817------2)
 - [Terraform with Azure DevOps CI/CD Pipelines](https://blog.devops.dev/terraform-with-azure-devops-ci-cd-pipelines-28b166fa405b?source=rss-f8c0d8b1b817------2)
 - [Using Azure for Infrastructure as Code](https://blog.devops.dev/using-azure-for-infrastructure-as-code-04cf9b6e8c87?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [How to Use Terraform Try &amp; Can Functions](https://blog.devops.dev/how-to-use-terraform-try-can-functions-ac4b9cfcad30?source=rss-f8c0d8b1b817------2)
 - [Azure ARM Templates](https://itnext.io/azure-arm-templates-ed7ad21e1ac6?source=rss-f8c0d8b1b817------2)
 - [Terraform File Paths — Path Module, Root and Cwd](https://itnext.io/terraform-file-paths-path-module-root-and-cwd-0d2214bf0f5d?source=rss-f8c0d8b1b817------2)
-- [How to Generate Images with Terraform Graph Command](https://faun.pub/how-to-generate-images-with-terraform-graph-command-2dddeac7390a?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
