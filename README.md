@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Terraform Contains Function](https://jackwesleyroper.medium.com/terraform-contains-function-338a751ae213?source=rss-f8c0d8b1b817------2)
 - [Terraform Force-Unlock Command](https://itnext.io/terraform-force-unlock-command-c6d9c4e95ce9?source=rss-f8c0d8b1b817------2)
 - [How to Use Ignore_Changes Argument in Terraform Lifecycle](https://itnext.io/how-to-use-ignore-changes-argument-in-terraform-lifecycle-99775806f5e7?source=rss-f8c0d8b1b817------2)
 - [How to Manage Terraform State with GitLab](https://itnext.io/how-to-manage-terraform-state-with-gitlab-c861e80ecab6?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [How to Use Kubectl Port-forward in Kubernetes Applications](https://blog.devops.dev/how-to-use-kubectl-port-forward-in-kubernetes-applications-1b924e051265?source=rss-f8c0d8b1b817------2)
 - [Kubernetes Dashboard](https://itnext.io/kubernetes-dashboard-4c60d59496af?source=rss-f8c0d8b1b817------2)
 - [How to Use Terraform Try &amp; Can Functions](https://blog.devops.dev/how-to-use-terraform-try-can-functions-ac4b9cfcad30?source=rss-f8c0d8b1b817------2)
-- [Azure ARM Templates](https://itnext.io/azure-arm-templates-ed7ad21e1ac6?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
