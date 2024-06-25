@@ -28,9 +28,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 [<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/jackwesleyroper)
 
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=jackwesleyroper&layout=wide)](https://github.com/gazf/github-readme-twitter)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/jackwesleyroper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jackwesleyroper" height="30" width="40" /></a>
@@ -46,11 +43,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 <h3 align="left">Like my work?</h3>
 <p><a href="https://www.buymeacoffee.com/jackwesleyroper"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jackwesleyroper" /></a></p><br><br>
-
-## 📊 Github stats
-<p >
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jackwesleyroper&show_icons=true&bg_color=ffea00&title_color=000000&text_color=000000&icon_color=ff0000&hide_border=true&count_private=true" />
-</p>
 
 </br>
 </br>
