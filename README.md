@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [What is a Kubernetes Workload?](https://blog.devops.dev/what-is-a-kubernetes-workload-21d40310b286?source=rss-f8c0d8b1b817------2)
 - [Azure Pipelines Tutorial](https://itnext.io/azure-pipelines-tutorial-d9641b0d39ef?source=rss-f8c0d8b1b817------2)
 - [12 Terraform Security Best Practices &lpar;&amp; 7 Common Risks&rpar;](https://itnext.io/12-terraform-security-best-practices-7-common-risks-6cc038887f12?source=rss-f8c0d8b1b817------2)
 - [Using Terraform YAML Functions: Yamldecode &amp; Yamlencode](https://blog.devops.dev/using-terraform-yaml-functions-yamldecode-yamlencode-5f141e1ba590?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [Terraform Force-Unlock Command](https://itnext.io/terraform-force-unlock-command-c6d9c4e95ce9?source=rss-f8c0d8b1b817------2)
 - [How to Use Ignore_Changes Argument in Terraform Lifecycle](https://itnext.io/how-to-use-ignore-changes-argument-in-terraform-lifecycle-99775806f5e7?source=rss-f8c0d8b1b817------2)
 - [How to Manage Terraform State with GitLab](https://itnext.io/how-to-manage-terraform-state-with-gitlab-c861e80ecab6?source=rss-f8c0d8b1b817------2)
-- [Terraform with Azure DevOps CI/CD Pipelines](https://blog.devops.dev/terraform-with-azure-devops-ci-cd-pipelines-28b166fa405b?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
