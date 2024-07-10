@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to Manage DynamoDB Tables With Terraform](https://itnext.io/how-to-manage-dynamodb-tables-with-terraform-84d15927f3be?source=rss-f8c0d8b1b817------2)
 - [How to use Terraform and Proxmox to Deploy a VM](https://jackwesleyroper.medium.com/how-to-use-terraform-and-proxmox-to-deploy-a-vm-d7f54f254b0d?source=rss-f8c0d8b1b817------2)
 - [What is a Kubernetes Workload?](https://blog.devops.dev/what-is-a-kubernetes-workload-21d40310b286?source=rss-f8c0d8b1b817------2)
 - [Azure Pipelines Tutorial](https://itnext.io/azure-pipelines-tutorial-d9641b0d39ef?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [How to Import Azure Resources to Terraform Using Aztfexport](https://itnext.io/how-to-import-azure-resources-to-terraform-using-aztfexport-1d44dab0daa2?source=rss-f8c0d8b1b817------2)
 - [Terraform Contains Function](https://jackwesleyroper.medium.com/terraform-contains-function-338a751ae213?source=rss-f8c0d8b1b817------2)
 - [Terraform Force-Unlock Command](https://itnext.io/terraform-force-unlock-command-c6d9c4e95ce9?source=rss-f8c0d8b1b817------2)
-- [How to Use Ignore_Changes Argument in Terraform Lifecycle](https://itnext.io/how-to-use-ignore-changes-argument-in-terraform-lifecycle-99775806f5e7?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
