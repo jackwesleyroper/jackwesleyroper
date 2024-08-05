@@ -9,16 +9,16 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Terraform in DevOps — IaC, Workflow &amp; Benefits](https://itnext.io/terraform-in-devops-iac-workflow-benefits-5e6297b3b40e?source=rss-f8c0d8b1b817------2)
 - [How to Use Terraform with GitOps](https://itnext.io/how-to-use-terraform-with-gitops-71a9c5426fd5?source=rss-f8c0d8b1b817------2)
 - [How to Manage DynamoDB Tables With Terraform](https://itnext.io/how-to-manage-dynamodb-tables-with-terraform-84d15927f3be?source=rss-f8c0d8b1b817------2)
-- [How to use Terraform and Proxmox to Deploy a VM](https://jackwesleyroper.medium.com/how-to-use-terraform-and-proxmox-to-deploy-a-vm-d7f54f254b0d?source=rss-f8c0d8b1b817------2)
+- [How to use Terraform and Proxmox to Deploy a VM](https://itnext.io/how-to-use-terraform-and-proxmox-to-deploy-a-vm-d7f54f254b0d?source=rss-f8c0d8b1b817------2)
 - [What is a Kubernetes Workload?](https://blog.devops.dev/what-is-a-kubernetes-workload-21d40310b286?source=rss-f8c0d8b1b817------2)
 - [Azure Pipelines Tutorial](https://itnext.io/azure-pipelines-tutorial-d9641b0d39ef?source=rss-f8c0d8b1b817------2)
 - [12 Terraform Security Best Practices &lpar;&amp; 7 Common Risks&rpar;](https://itnext.io/12-terraform-security-best-practices-7-common-risks-6cc038887f12?source=rss-f8c0d8b1b817------2)
 - [Using Terraform YAML Functions: Yamldecode &amp; Yamlencode](https://blog.devops.dev/using-terraform-yaml-functions-yamldecode-yamlencode-5f141e1ba590?source=rss-f8c0d8b1b817------2)
 - [How to Migrate Terraform State Between Different Backends](https://itnext.io/how-to-migrate-terraform-state-between-different-backends-ed99cd42ad11?source=rss-f8c0d8b1b817------2)
 - [How to Import Azure Resources to Terraform Using Aztfexport](https://itnext.io/how-to-import-azure-resources-to-terraform-using-aztfexport-1d44dab0daa2?source=rss-f8c0d8b1b817------2)
-- [Terraform Contains Function](https://jackwesleyroper.medium.com/terraform-contains-function-338a751ae213?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
