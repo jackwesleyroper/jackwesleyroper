@@ -9,7 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Terraform in DevOps — IaC, Workflow &amp; Benefits](https://itnext.io/terraform-in-devops-iac-workflow-benefits-5e6297b3b40e?source=rss-f8c0d8b1b817------2)
+- [Terraform in DevOps — IaC, Workflow &amp; Benefits](https://blog.devops.dev/terraform-in-devops-iac-workflow-benefits-5e6297b3b40e?source=rss-f8c0d8b1b817------2)
 - [How to Use Terraform with GitOps](https://itnext.io/how-to-use-terraform-with-gitops-71a9c5426fd5?source=rss-f8c0d8b1b817------2)
 - [How to Manage DynamoDB Tables With Terraform](https://itnext.io/how-to-manage-dynamodb-tables-with-terraform-84d15927f3be?source=rss-f8c0d8b1b817------2)
 - [How to use Terraform and Proxmox to Deploy a VM](https://itnext.io/how-to-use-terraform-and-proxmox-to-deploy-a-vm-d7f54f254b0d?source=rss-f8c0d8b1b817------2)
