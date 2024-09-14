@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Terraform Regex — Regular expressions in Terraform](https://medium.com/codex/terraform-regex-regular-expressions-in-terraform-6143a3c8fc9a?source=rss-f8c0d8b1b817------2)
 - [How to Use GitHub Copilot for Terraform Infrastructure](https://itnext.io/how-to-use-github-copilot-for-terraform-infrastructure-2d204ed653f3?source=rss-f8c0d8b1b817------2)
 - [How to Manage Kubernetes Secrets with Terraform](https://itnext.io/how-to-manage-kubernetes-secrets-with-terraform-ebbf6cf41323?source=rss-f8c0d8b1b817------2)
 - [How to Use Terraform on Microsoft Azure](https://itnext.io/how-to-use-terraform-on-microsoft-azure-bf5c94988bd4?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [How to use Terraform and Proxmox to Deploy a VM](https://itnext.io/how-to-use-terraform-and-proxmox-to-deploy-a-vm-d7f54f254b0d?source=rss-f8c0d8b1b817------2)
 - [What is a Kubernetes Workload?](https://blog.devops.dev/what-is-a-kubernetes-workload-21d40310b286?source=rss-f8c0d8b1b817------2)
 - [Azure Pipelines Tutorial](https://itnext.io/azure-pipelines-tutorial-d9641b0d39ef?source=rss-f8c0d8b1b817------2)
-- [12 Terraform Security Best Practices &lpar;&amp; 7 Common Risks&rpar;](https://itnext.io/12-terraform-security-best-practices-7-common-risks-6cc038887f12?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
