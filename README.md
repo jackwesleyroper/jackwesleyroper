@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Tags in Terraform?](https://itnext.io/how-to-use-tags-in-terraform-7a37d700667c?source=rss-f8c0d8b1b817------2)
 - [How to Create ECR Repository in AWS Using Terraform](https://itnext.io/how-to-create-ecr-repository-in-aws-using-terraform-a52ea63ab4a7?source=rss-f8c0d8b1b817------2)
 - [Terraform Regex — Regular expressions in Terraform](https://medium.com/codex/terraform-regex-regular-expressions-in-terraform-6143a3c8fc9a?source=rss-f8c0d8b1b817------2)
 - [How to Use GitHub Copilot for Terraform Infrastructure](https://itnext.io/how-to-use-github-copilot-for-terraform-infrastructure-2d204ed653f3?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [How to Use Terraform with GitOps](https://itnext.io/how-to-use-terraform-with-gitops-71a9c5426fd5?source=rss-f8c0d8b1b817------2)
 - [How to Manage DynamoDB Tables With Terraform](https://itnext.io/how-to-manage-dynamodb-tables-with-terraform-84d15927f3be?source=rss-f8c0d8b1b817------2)
 - [How to use Terraform and Proxmox to Deploy a VM](https://itnext.io/how-to-use-terraform-and-proxmox-to-deploy-a-vm-d7f54f254b0d?source=rss-f8c0d8b1b817------2)
-- [What is a Kubernetes Workload?](https://blog.devops.dev/what-is-a-kubernetes-workload-21d40310b286?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
