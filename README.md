@@ -9,6 +9,7 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 
 ### 📝 Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Improve pipeline security with Workload Identity Federation](https://itnext.io/improve-pipeline-security-with-workload-identity-federation-6f51ecdfa49f?source=rss-f8c0d8b1b817------2)
 - [Terraform Strings](https://itnext.io/terraform-strings-96f95f6ba8a4?source=rss-f8c0d8b1b817------2)
 - [How to Use Tags in Terraform?](https://itnext.io/how-to-use-tags-in-terraform-7a37d700667c?source=rss-f8c0d8b1b817------2)
 - [How to Create ECR Repository in AWS Using Terraform](https://itnext.io/how-to-create-ecr-repository-in-aws-using-terraform-a52ea63ab4a7?source=rss-f8c0d8b1b817------2)
@@ -18,7 +19,6 @@ I am an experienced technician specialising in Cloud native and DevOps technolog
 - [How to Use Terraform on Microsoft Azure](https://itnext.io/how-to-use-terraform-on-microsoft-azure-bf5c94988bd4?source=rss-f8c0d8b1b817------2)
 - [Terraform in DevOps — IaC, Workflow &amp; Benefits](https://blog.devops.dev/terraform-in-devops-iac-workflow-benefits-5e6297b3b40e?source=rss-f8c0d8b1b817------2)
 - [How to Use Terraform with GitOps](https://itnext.io/how-to-use-terraform-with-gitops-71a9c5426fd5?source=rss-f8c0d8b1b817------2)
-- [How to Manage DynamoDB Tables With Terraform](https://itnext.io/how-to-manage-dynamodb-tables-with-terraform-84d15927f3be?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 
