@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jack Roper</h1>
 <h3 align="center">Azure Tech Lead...</h3>
 
-I am an experienced technician specialising in Cloud native and DevOps technologies, and focus on Azure, Azure DevOps, AWS, Terraform & Kubernetes. I currently work for Avanade in the UK as an Azure Tech Lead. I regularly write articles on [https://jackwesleyroper.medium.com](https://jackwesleyroper.medium.com)📝.
+I am an experienced technician specializing in Cloud native and DevOps technologies, focusing on Azure, Azure DevOps, AWS, Terraform & Kubernetes. 
 
-<p align="left"> <a href="https://twitter.com/jackwesleyroper" target="blank"><img src="https://img.shields.io/twitter/follow/jackwesleyroper?logo=twitter&style=for-the-badge" alt="jackwesleyroper" /></a> </p>
+I currently work for Avanade in the UK as an Azure Tech Lead. 
+
+I regularly write articles on [https://jackwesleyroper.medium.com](https://jackwesleyroper.medium.com)📝.
 
 [![Linkedin: Jack Roper](https://img.shields.io/badge/-Jack%20Roper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jwroper/)](https://www.linkedin.com/in/jwroper/)
 
-### 📝 Blog posts:
+### 📝 Recent blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Improve Pipeline Security with Workload Identity Federation](https://itnext.io/improve-pipeline-security-with-workload-identity-federation-6f51ecdfa49f?source=rss-f8c0d8b1b817------2)
 - [Terraform Strings](https://itnext.io/terraform-strings-96f95f6ba8a4?source=rss-f8c0d8b1b817------2)
