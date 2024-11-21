@@ -7,8 +7,6 @@ I currently work for Avanade in the UK as an Azure Tech Lead.
 
 I regularly write articles on [https://jackwesleyroper.medium.com](https://jackwesleyroper.medium.com)📝.
 
-[![Linkedin: Jack Roper](https://img.shields.io/badge/-Jack%20Roper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jwroper/)](https://www.linkedin.com/in/jwroper/)
-
 ### 📝 Recent blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Improve Pipeline Security with Workload Identity Federation](https://itnext.io/improve-pipeline-security-with-workload-identity-federation-6f51ecdfa49f?source=rss-f8c0d8b1b817------2)
@@ -22,10 +20,6 @@ I regularly write articles on [https://jackwesleyroper.medium.com](https://jackw
 - [Terraform in DevOps — IaC, Workflow &amp; Benefits](https://blog.devops.dev/terraform-in-devops-iac-workflow-benefits-5e6297b3b40e?source=rss-f8c0d8b1b817------2)
 - [How to Use Terraform with GitOps](https://itnext.io/how-to-use-terraform-with-gitops-71a9c5426fd5?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
-
-### 🐦 Latest Tweets:
-
-[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/jackwesleyroper)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
