@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jack Roper</h1>
 <h3 align="center">Azure Tech Lead...</h3>
 
+![Jack Roper](https://github.com/user-attachments/assets/e6a8a203-106d-4486-9975-01411195e41a)
+
 I am an experienced technician specializing in Cloud native and DevOps technologies, focusing on Azure, Azure DevOps, AWS, Terraform & Kubernetes. ☁️
 
 I currently work for Avanade in the UK as an Azure Tech Lead. I am also a proud Hashicorp Ambassador and candidate for the MVP. 🥇
