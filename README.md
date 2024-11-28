@@ -11,6 +11,7 @@ I regularly write articles on [https://jackwesleyroper.medium.com](https://jackw
 
 ### 📝 Recent blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Essential files for your code repository](https://itnext.io/essential-files-for-your-code-repository-264c66f9695a?source=rss-f8c0d8b1b817------2)
 - [Improve Pipeline Security with Workload Identity Federation](https://itnext.io/improve-pipeline-security-with-workload-identity-federation-6f51ecdfa49f?source=rss-f8c0d8b1b817------2)
 - [Terraform Strings](https://itnext.io/terraform-strings-96f95f6ba8a4?source=rss-f8c0d8b1b817------2)
 - [How to Use Tags in Terraform?](https://itnext.io/how-to-use-tags-in-terraform-7a37d700667c?source=rss-f8c0d8b1b817------2)
@@ -20,7 +21,6 @@ I regularly write articles on [https://jackwesleyroper.medium.com](https://jackw
 - [How to Manage Kubernetes Secrets with Terraform](https://itnext.io/how-to-manage-kubernetes-secrets-with-terraform-ebbf6cf41323?source=rss-f8c0d8b1b817------2)
 - [How to Use Terraform on Microsoft Azure](https://itnext.io/how-to-use-terraform-on-microsoft-azure-bf5c94988bd4?source=rss-f8c0d8b1b817------2)
 - [Terraform in DevOps — IaC, Workflow &amp; Benefits](https://blog.devops.dev/terraform-in-devops-iac-workflow-benefits-5e6297b3b40e?source=rss-f8c0d8b1b817------2)
-- [How to Use Terraform with GitOps](https://itnext.io/how-to-use-terraform-with-gitops-71a9c5426fd5?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
