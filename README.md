@@ -11,6 +11,7 @@ I regularly write articles on [https://jackwesleyroper.medium.com](https://jackw
 
 ### 📝 Recent blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Using a self-hosted runner with GitHub Actions](https://itnext.io/using-a-self-hosted-runner-with-github-actions-e8a0415c7530?source=rss-f8c0d8b1b817------2)
 - [Creating Templates on GitHub](https://itnext.io/creating-templates-on-github-f81156333365?source=rss-f8c0d8b1b817------2)
 - [Essential files for your code repository](https://itnext.io/essential-files-for-your-code-repository-264c66f9695a?source=rss-f8c0d8b1b817------2)
 - [Improve Pipeline Security with Workload Identity Federation](https://itnext.io/improve-pipeline-security-with-workload-identity-federation-6f51ecdfa49f?source=rss-f8c0d8b1b817------2)
@@ -20,7 +21,6 @@ I regularly write articles on [https://jackwesleyroper.medium.com](https://jackw
 - [Terraform Regex — Regular expressions in Terraform](https://medium.com/codex/terraform-regex-regular-expressions-in-terraform-6143a3c8fc9a?source=rss-f8c0d8b1b817------2)
 - [How to Use GitHub Copilot for Terraform Infrastructure](https://itnext.io/how-to-use-github-copilot-for-terraform-infrastructure-2d204ed653f3?source=rss-f8c0d8b1b817------2)
 - [How to Manage Kubernetes Secrets with Terraform](https://itnext.io/how-to-manage-kubernetes-secrets-with-terraform-ebbf6cf41323?source=rss-f8c0d8b1b817------2)
-- [How to Use Terraform on Microsoft Azure](https://itnext.io/how-to-use-terraform-on-microsoft-azure-bf5c94988bd4?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
