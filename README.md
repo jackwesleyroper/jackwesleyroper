@@ -11,8 +11,8 @@ I regularly write articles on [https://jackwesleyroper.medium.com](https://jackw
 
 ### 📝 Recent blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Using a self-hosted runner with GitHub Actions](https://itnext.io/using-a-self-hosted-runner-with-github-actions-e8a0415c7530?source=rss-f8c0d8b1b817------2)
-- [Creating Templates on GitHub](https://itnext.io/creating-templates-on-github-f81156333365?source=rss-f8c0d8b1b817------2)
+- [Mastering GitHub Actions: Step-by-Step Guide to Using a Self-Hosted Runner](https://itnext.io/using-a-self-hosted-runner-with-github-actions-e8a0415c7530?source=rss-f8c0d8b1b817------2)
+- [Mastering GitHub: A Complete Guide to Creating Templates](https://itnext.io/creating-templates-on-github-f81156333365?source=rss-f8c0d8b1b817------2)
 - [Essential files for your code repository](https://itnext.io/essential-files-for-your-code-repository-264c66f9695a?source=rss-f8c0d8b1b817------2)
 - [Improve Pipeline Security with Workload Identity Federation](https://itnext.io/improve-pipeline-security-with-workload-identity-federation-6f51ecdfa49f?source=rss-f8c0d8b1b817------2)
 - [Terraform Strings](https://itnext.io/terraform-strings-96f95f6ba8a4?source=rss-f8c0d8b1b817------2)
