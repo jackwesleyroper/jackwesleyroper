@@ -11,7 +11,7 @@ I regularly write articles on [https://jackwesleyroper.medium.com](https://jackw
 
 ### 📝 Recent blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Mastering GitHub Actions: Post to BlueSky &amp; X when a GitHub Issue is closed](https://itnext.io/mastering-github-actions-post-to-bluesky-x-when-a-github-issue-is-closed-64916def17cb?source=rss-f8c0d8b1b817------2)
+- [Mastering GitHub Actions: Getting Started with GitHub Actions from the Marketplace](https://medium.com/codex/mastering-github-actions-post-to-bluesky-x-when-a-github-issue-is-closed-64916def17cb?source=rss-f8c0d8b1b817------2)
 - [Mastering GitHub Actions: Step-by-Step Guide to Using a Self-Hosted Runner](https://itnext.io/using-a-self-hosted-runner-with-github-actions-e8a0415c7530?source=rss-f8c0d8b1b817------2)
 - [Mastering GitHub: A Complete Guide to Creating Templates](https://itnext.io/creating-templates-on-github-f81156333365?source=rss-f8c0d8b1b817------2)
 - [Essential files for your code repository](https://itnext.io/essential-files-for-your-code-repository-264c66f9695a?source=rss-f8c0d8b1b817------2)
