@@ -11,6 +11,7 @@ I regularly write articles on [https://jackwesleyroper.medium.com](https://jackw
 
 ### 📝 Recent blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with GitHub CoPilot](https://itnext.io/getting-started-with-github-copilot-66fb63c88cbe?source=rss-f8c0d8b1b817------2)
 - [Terraform apply fails with clientCredentialsToken already expired.](https://systemweakness.com/terraform-apply-fails-with-clientcredentialstoken-already-expired-34fc8f4072be?source=rss-f8c0d8b1b817------2)
 - [Mastering GitHub Actions: How to use CodeQL for code security analysis](https://itnext.io/mastering-github-actions-how-to-use-codeql-for-code-security-analysis-cf7f40228d5f?source=rss-f8c0d8b1b817------2)
 - [Mastering GitHub Actions: Getting Started with GitHub Actions from the Marketplace](https://medium.com/codex/mastering-github-actions-post-to-bluesky-x-when-a-github-issue-is-closed-64916def17cb?source=rss-f8c0d8b1b817------2)
@@ -20,7 +21,6 @@ I regularly write articles on [https://jackwesleyroper.medium.com](https://jackw
 - [Enhance Pipeline Security with Workload Identity Federation: A Comprehensive Guide](https://itnext.io/improve-pipeline-security-with-workload-identity-federation-6f51ecdfa49f?source=rss-f8c0d8b1b817------2)
 - [Terraform Strings](https://itnext.io/terraform-strings-96f95f6ba8a4?source=rss-f8c0d8b1b817------2)
 - [How to Use Tags in Terraform?](https://itnext.io/how-to-use-tags-in-terraform-7a37d700667c?source=rss-f8c0d8b1b817------2)
-- [How to Create ECR Repository in AWS Using Terraform](https://itnext.io/how-to-create-ecr-repository-in-aws-using-terraform-a52ea63ab4a7?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
