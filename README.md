@@ -11,6 +11,7 @@ I regularly write articles on [https://jackwesleyroper.medium.com](https://jackw
 
 ### 📝 Recent blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [What is Microsoft Fabric?](https://itnext.io/what-is-microsoft-fabric-189c093409af?source=rss-f8c0d8b1b817------2)
 - [Securing your secrets using Terraform ephemeral resources](https://itnext.io/securing-your-secrets-using-terraform-ephemeral-resources-dff453f25de0?source=rss-f8c0d8b1b817------2)
 - [How to Become a Hashicorp Ambassador](https://itnext.io/how-to-become-a-hashicorp-ambassador-07bcb8f8e488?source=rss-f8c0d8b1b817------2)
 - [Getting started with GitHub CoPilot](https://itnext.io/getting-started-with-github-copilot-66fb63c88cbe?source=rss-f8c0d8b1b817------2)
@@ -20,7 +21,6 @@ I regularly write articles on [https://jackwesleyroper.medium.com](https://jackw
 - [Mastering GitHub Actions: Step-by-Step Guide to Using a Self-Hosted Runner](https://itnext.io/using-a-self-hosted-runner-with-github-actions-e8a0415c7530?source=rss-f8c0d8b1b817------2)
 - [Mastering GitHub: A Complete Guide to Creating Templates](https://itnext.io/creating-templates-on-github-f81156333365?source=rss-f8c0d8b1b817------2)
 - [Essential files for your code repository](https://itnext.io/essential-files-for-your-code-repository-264c66f9695a?source=rss-f8c0d8b1b817------2)
-- [Enhance Pipeline Security with Workload Identity Federation: A Comprehensive Guide](https://itnext.io/improve-pipeline-security-with-workload-identity-federation-6f51ecdfa49f?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
