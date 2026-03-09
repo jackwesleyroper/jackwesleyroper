@@ -11,6 +11,7 @@ I regularly write articles on [https://jackwesleyroper.medium.com](https://jackw
 
 ### 📝 Recent blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Guide to creating the ultimate self-hosted build agent on Azure DevOps](https://jackwesleyroper.medium.com/guide-to-creating-the-ultimate-self-hosted-build-agent-on-azure-devops-5d8ba07a8985?source=rss-f8c0d8b1b817------2)
 - [Securing Microsoft Fabric with Private Networking](https://itnext.io/securing-microsoft-fabric-with-private-networking-7d2aeb8bb37f?source=rss-f8c0d8b1b817------2)
 - [Azure Policy Explained](https://itnext.io/azure-policy-explained-696c028ee7d4?source=rss-f8c0d8b1b817------2)
 - [What is Microsoft Fabric?](https://itnext.io/what-is-microsoft-fabric-189c093409af?source=rss-f8c0d8b1b817------2)
@@ -20,7 +21,6 @@ I regularly write articles on [https://jackwesleyroper.medium.com](https://jackw
 - [Terraform apply fails with clientCredentialsToken already expired.](https://systemweakness.com/terraform-apply-fails-with-clientcredentialstoken-already-expired-34fc8f4072be?source=rss-f8c0d8b1b817------2)
 - [Mastering GitHub Actions: How to use CodeQL for code security analysis](https://itnext.io/mastering-github-actions-how-to-use-codeql-for-code-security-analysis-cf7f40228d5f?source=rss-f8c0d8b1b817------2)
 - [Mastering GitHub Actions: Getting Started with GitHub Actions from the Marketplace](https://medium.com/codex/mastering-github-actions-post-to-bluesky-x-when-a-github-issue-is-closed-64916def17cb?source=rss-f8c0d8b1b817------2)
-- [Mastering GitHub Actions: Step-by-Step Guide to Using a Self-Hosted Runner](https://itnext.io/using-a-self-hosted-runner-with-github-actions-e8a0415c7530?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
