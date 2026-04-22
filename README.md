@@ -5,7 +5,7 @@
 
 I am an experienced technician specializing in Cloud native and DevOps technologies, focusing on Azure, Azure DevOps, AWS, Terraform & Kubernetes. ☁️
 
-I currently work for Avanade in the UK as an Azure Tech Lead. I am also a proud Hashicorp Ambassador and candidate for the MVP. 🥇
+I currently work for Avanade in the UK as an Azure Tech Lead. I am also a 2-time Hashicorp Ambassador and candidate for the MVP. 🥇
 
 I regularly write articles on [https://jackwesleyroper.medium.com](https://jackwesleyroper.medium.com)📝
 
