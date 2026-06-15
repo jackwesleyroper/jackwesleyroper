@@ -12,14 +12,14 @@ I regularly write articles on [https://jackwesleyroper.medium.com](https://jackw
 ### 📝 Recent blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Guide to creating the ultimate self-hosted build agent on Azure DevOps](https://jackwesleyroper.medium.com/guide-to-creating-the-ultimate-self-hosted-build-agent-on-azure-devops-5d8ba07a8985?source=rss-f8c0d8b1b817------2)
-- [Securing Microsoft Fabric with Private Networking](https://itnext.io/securing-microsoft-fabric-with-private-networking-7d2aeb8bb37f?source=rss-f8c0d8b1b817------2)
-- [Azure Policy Explained](https://itnext.io/azure-policy-explained-696c028ee7d4?source=rss-f8c0d8b1b817------2)
-- [What is Microsoft Fabric?](https://itnext.io/what-is-microsoft-fabric-189c093409af?source=rss-f8c0d8b1b817------2)
-- [Securing your secrets using Terraform ephemeral resources](https://itnext.io/securing-your-secrets-using-terraform-ephemeral-resources-dff453f25de0?source=rss-f8c0d8b1b817------2)
-- [How to Become a Hashicorp Ambassador](https://itnext.io/how-to-become-a-hashicorp-ambassador-07bcb8f8e488?source=rss-f8c0d8b1b817------2)
-- [Getting started with GitHub CoPilot](https://itnext.io/getting-started-with-github-copilot-66fb63c88cbe?source=rss-f8c0d8b1b817------2)
+- [Securing Microsoft Fabric with Private Networking](https://medium.com/itnext/securing-microsoft-fabric-with-private-networking-7d2aeb8bb37f?source=rss-f8c0d8b1b817------2)
+- [Azure Policy Explained](https://medium.com/itnext/azure-policy-explained-696c028ee7d4?source=rss-f8c0d8b1b817------2)
+- [What is Microsoft Fabric?](https://medium.com/itnext/what-is-microsoft-fabric-189c093409af?source=rss-f8c0d8b1b817------2)
+- [Securing your secrets using Terraform ephemeral resources](https://medium.com/itnext/securing-your-secrets-using-terraform-ephemeral-resources-dff453f25de0?source=rss-f8c0d8b1b817------2)
+- [How to Become a Hashicorp Ambassador](https://medium.com/itnext/how-to-become-a-hashicorp-ambassador-07bcb8f8e488?source=rss-f8c0d8b1b817------2)
+- [Getting started with GitHub CoPilot](https://medium.com/itnext/getting-started-with-github-copilot-66fb63c88cbe?source=rss-f8c0d8b1b817------2)
 - [Terraform apply fails with clientCredentialsToken already expired.](https://systemweakness.com/terraform-apply-fails-with-clientcredentialstoken-already-expired-34fc8f4072be?source=rss-f8c0d8b1b817------2)
-- [Mastering GitHub Actions: How to use CodeQL for code security analysis](https://itnext.io/mastering-github-actions-how-to-use-codeql-for-code-security-analysis-cf7f40228d5f?source=rss-f8c0d8b1b817------2)
+- [Mastering GitHub Actions: How to use CodeQL for code security analysis](https://medium.com/itnext/mastering-github-actions-how-to-use-codeql-for-code-security-analysis-cf7f40228d5f?source=rss-f8c0d8b1b817------2)
 - [Mastering GitHub Actions: Getting Started with GitHub Actions from the Marketplace](https://medium.com/codex/mastering-github-actions-post-to-bluesky-x-when-a-github-issue-is-closed-64916def17cb?source=rss-f8c0d8b1b817------2)
 <!-- BLOG-POST-LIST:END -->
 
